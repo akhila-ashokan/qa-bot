@@ -32,7 +32,7 @@ args = parser.parse_args()
 
 subreddits = args.subreddit
 
-os.chdir('/shared/jackie/resilient-communities')
+os.chdir('') #TODO: add directory here
 
 open('logs/collect-pushshift.log', 'w').close()
 
