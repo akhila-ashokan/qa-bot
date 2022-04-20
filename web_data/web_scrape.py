@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 
-test_url = "https://admissions.illinois.edu"
+test_url = "https://registrar.illinois.edu"
 dict_href_links = {}
 set_links_to_visit = set()
 
@@ -13,7 +13,8 @@ def get_data(url):
 def scrape_and_save(url, file_path="covid19/", filename=0):
     html_data = get_data(url)
     soup = BeautifulSoup(html_data, "html.parser")
-    paragraph_data = soup.find_all("p")
+    heading_tags = ["h1", "h2", "h3", "p"]
+    paragraph_data = soup.find_all(heading_tags)
 
     f = open(file_path+str(filename)+".txt", "w")
     f.write(url + "\n")
@@ -60,10 +61,11 @@ def get_links(website_link):
 
 def main():
     get_links(test_url)
+    # print(set_links_to_visit)
     ctr = 1
     for link in set_links_to_visit:
-        scrape_and_save(link, file_path="admissions/", filename=ctr)
-        sleep(1)
+        scrape_and_save(link, file_path="registrar/", filename=ctr)
+        sleep(0.5)
         ctr += 1
     # scrape_and_save(test_url, filename=1)
 

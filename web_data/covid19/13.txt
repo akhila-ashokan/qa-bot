@@ -1,6 +1,18 @@
-https://covid19.illinois.edu/more-information/college-and-unit-information/
-College and Unit Information – COVID-19
-The COVID-19 pandemic has effected all parts of the University of Illinois Urbana-Champaign. A number of colleges, departments, institutes and other campus units are providing updates about how COVID-19 is affecting their unit’s operations.  
-Each unit and several divisions within some units have identified at least one individual to be their COVID-19 Coordinator for return to on-site coordination and planning. 
-
+https://covid19.illinois.edu/health-and-support/about-the-test/
+About the test – COVID-19
+General
+Students
+Instructors
+Employees
+About the test
+The University of Illinois saliva test
+Our on-campus testing sites administer a saliva-based test, a process developed by the COVID-19 SHIELD: Target, Test, Tell team. Unlike conventional nasal testing, saliva samples are collected non-invasively, without healthcare workers and with minimal use of PPE. 
+The University of Illinois System received emergency use authorization (EUA) from the U.S. Food and Drug Administration (FDA) for the innovative saliva-based COVID-19 test.
+The lab processing the samples is certified under the federal Clinical Laboratory Improvement Amendments of 1988 (CLIA) to perform high complexity testing. 
+Background
+Our test asks individuals to provide a saliva sample because research tells us that saliva is the primary way COVID-19 is spread. More information about the research related to this test method is available.
+The University of Illinois Urbana-Champaign is performing its new rapid, saliva-based COVID-19 test on all students, faculty and staff.
+Compared to the nasal test, the saliva-based test is fast, free of supply chain bottlenecks, and cost-effective, because saliva tests do not require nasal swabs, etc. 
+Compared to other saliva tests, our saliva test skips RNA isolation (a cumbersome process), which allows quicker results.
+Our studies to date show that our saliva-based test provides results that are comparable to other COVID-19 viral test methods.
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!
