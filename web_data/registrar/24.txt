@@ -1,0 +1,43 @@
+https://registrar.illinois.edu/academic-records/dars-audit/
+Degree Audit – Office of the Registrar
+Office of the Registrar
+Degree Audit
+
+A degree audit is an unofficial audit of progress toward the degree that reflects courses completed and currently in progress.
+Generate an Audit
+University of Illinois students can view their degree audit through the Degree Audit System. This report is an unofficial audit of your degree progress which includes in progress coursework. Watch for additional information and advisories specific to your college at the top of your degree audit. Read the following instructions before generating an audit.
+Logging In
+Use your NetID and Password to log in to the system. These are the same values that are used to log in to Student Self-Service.
+Audit Request Page
+Once logged in, if a degree audit has been run in the past, you will see the most recently run audit. If no previous degree audits have been run, you will be taken to the welcome page. From the welcome page, you can run an audit by clicking the “Request Audit” button or select “Request New” under “Audits” on the menu bar. Once on the “Request an Audit” page, you have two options for running audits:
+ 
+After the audit is requested, the “Completed Audit Requests” page will appear. The page displays Running Audits as well as Completed Audits. Once your audit request has finished, only the Completed Audit Requests are displayed. Click the “View Audit” link in the “View” column to view the audit.
+If the report does not display after a reasonable interval, email our Degree Audit Specialist for technical assistance. For graduate students email the Graduate College.
+(The Degree Audit System undergoes maintenance nightly starting at 12:00 midnight and may be periodically unavailable during the night.) 
+View Audits
+Students may view a previously run audit. Choose “Audits” in the menu and select “Manage.” Click the “View Audit” link in the “View” column to view the desired audit. Audits are purged on a regularly scheduled basis.
+Planned Courses
+Students may add a hypothetical course to a degree audit to determine what effect it may have on the report. To add a planned course, click “Courses” on the menu bar and select “Planned.” Click the “Add Planned Course” button and enter the following:
+To view how your planned course(s) apply to your requirements, you must select “Advanced Settings” on the “Request an Audit” page and check the box labeled “What If Courses”.
+Logging Out
+Click the Settings Icon on the menu bar. Select “Logout”.
+Protect your personal information by closing all open browser windows when terminating your degree audit session.
+Audit Limitations
+This audit does not take the place of regular academic advising sessions and should not be used to make decisions about future course selection. It is your responsibility to confirm official degree progress by consulting with academic advisors and college admissions or records officers. Graduate students should contact their departmental graduate contact.
+In addition, please note the following:
+Login to Generate an Audit
+Section Menu
+Contact Us
+
+Parents & FERPA | Student Consumer Information
+
+
+Office of the Registrar
+
+	            901 West Illinois Street, Urbana, IL 61801
+	        
+©
+				2022 University of Illinois Board of Trustees
+
+Web Privacy Notice
+

@@ -1,20 +1,41 @@
-https://covid19.illinois.edu/health-and-support/how-to-test/
-How to test and receive results – COVID-19
-The test is available to current students, faculty, staff and retirees at the University of Illinois Urbana-Champaign who have active NetIDs. 
-Community members, family members and visitors can test through SHIELD CU. Please visit the SHIELD CU website for more information, including testing locations and hours.
-The test is free.
-You should refrain from eating, drinking, tooth brushing, mouth washing, gum chewing, and tobacco use for at least one hour before submitting your saliva sample at the test location.
-Make sure you bring your current iCard or have the Illinois app downloaded.
-You will be asked to provide a saliva sample. The sample collection only takes a few minutes.
-When you arrive at an on-campus testing location, you will be asked the following questions:
-You can choose to not answer the next two questions, in which case “unknown” will be selected. The Illinois Department of Public Health has requested we ask each person’s race who is tested on-campus. Providing this information is optional for each person who is tested.
-Individuals will verify that their name is correct on the test tube label. Next, you will move to a saliva station where you will take the lid off the test tube and dribble saliva into the tube. Once complete, replace the lid and take the tube to the collection station.
-At collection, you will hold up your test tube so staff can confirm that there is enough saliva in the tube. Staff will ask that you return to a test station if enough saliva is not in the tube.
-You will be offered a copy of a COVID-19 Test Fact Sheet for Patients. If you do not want to take a physical copy, an online copy is available in PDF format.
-Typical test results are expected within 12 hours, but results could take up to 48 hours.
-The University of Illinois COVID Wellness Answer Center is available to answer questions about on-campus testing and results. 
-Please contact the COVID Wellness Answer Center by email at covidwellness@illinois.edu or call 217-333-1900. Please email for faster response times.
-Invalid results typically occur when non-optimal saliva samples are submitted. Before your next test, please be sure to refrain from eating, drinking, tooth brushing, mouth washing, or tobacco use for at least 1 hour prior to submitting your saliva sample. For best results, it is recommended to hydrate during the morning and get tested in the afternoon.
-Go to your MyMcKinley portal. Click the “Labs” tab in the menu and select your test result to print an official copy. 
-The Illinois Department of Public Health has requested we ask each person’s race who is tested on-campus. Providing this information is optional for each person who is tested.
+https://covid19.illinois.edu/on-campus/building-access/
+Building Access – COVID-19
+General
+Students
+Instructors
+Employees
+Building Access
+To maximize the safety of our entire community, the university is limiting access to on-campus instructional facilities to individuals who are in-compliance with safety requirements.
+Building access process
+Students, faculty and staff are required to have completed an on-campus COVID-19 test and received a negative result OR have university-verified Vaccination Record Card to access university facilities.
+At some facilities, you may be required to show your building access (which shows if you are compliant via being vaccinated or testing, by using the Illinois app or the Boarding Pass). You are not required to share or prove your vaccination status.
+All students, faculty and staff participating in on-campus activities start with their building access status set to Access Denied. To initially have your status changed to Access Granted, you must have a recent negative COVID-19 on-campus test result OR a university-verified Vaccination Record Card. 
+Buildings with in-person classes
+Specially trained employees called a Wellness Support Associates (WSAs) will conduct daily spot checks across campus at various classroom buildings. Certain buildings may also choose to hire their own WSAs for the semester.
+At each WSA-staffed entrance, any individual (faculty, staff or students) who wishes to enter must show the WSA their building access status. This status shows that an individual has a university-verified Vaccination Record Card or is up-to-date for on-campus testing (does not have a positive COVID-19 test and has not been instructed to quarantine or isolate for any reason).
+Individuals should wait their turn to display their Access Granted status to the WSA in a line. 
+Building access for other facilities
+Other university facilities may also check building entry status for individuals who plan to work on-campus. There may be different mechanisms to check for building entry status at non-instructional facilities. Students will receive more information about building entrance status as it relates to residence halls, dining halls and other student services. Units in non-instructional buildings should clearly communicate to their employees about the building access protocols they will use.
+Who can check building access status
+The building access screen only shows if someone is compliant or not – either through vaccination or testing. This is to protect everyone’s private health information. You are not required to share or prove your vaccination status. 
+Individuals are required to show their building access status to the following individuals:
+How to show building access status
+The university is providing a number of ways for verifying your building access status. 
+Illinois app
+The Illinois App is the primary way for faculty, staff and students to display their COVID-19 Building Access Status. 
+COVID-19 Boarding Pass
+As an alternative method for verifying building access status, the university has created a COVID-19 Boarding Pass system.
+Students, faculty and staff with an active NetID can log in to the COVID-19 Boarding Pass page and click “Get Status.”
+The website will display the individual’s Building Access status as either Access Granted or Access Denied. The webpage with this information can be physically printed out and shown during a building access check, or the individual can log in to the Boarding Pass website on their phone at the check.
+Log in to the COVID-19 Boarding Pass site.
+Wellness Support Associates
+Wellness Support Associates are specially trained employees who help enact the university’s COVID-19 building access.
+College & unit information
+Wellness Support training is also available for units and departments in facilities where in-person courses are not being held. Units or departments interested in implementing the program are encouraged to contact Brian Brauer at brbrauer@illinois.edu.
+Frequently Asked Questions
+If there is no WSA on duty at your building, and you have a university-verified Vaccination Record Card or you are current on your testing and not supposed to be in isolation or quarantine, please head to your class as you usually would. WSAs will not necessarily be at every building every day.
+Yes. Colleges or units can hire their own WSAs, as long as those individuals go through the required training. Units or departments interested in implementing the program are encouraged to contact Brian Brauer at brbrauer@illinois.edu.
+Our Wellness Support Associates undergo training to deal with conflict. If someone causes a disruption, they will be trained to reach out to a supervisor to deal with the issue.
+Contractors doing work in buildings where WSAs are present can be escorted into the building by the facility manager, unit head or other designated person by the unit head. 
+No. The Wellness Support Associates are university employees who are not part of the University of Illinois Police Department. They are part of the university’s COVID-19 safety response team.
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

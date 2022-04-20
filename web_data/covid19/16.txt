@@ -1,4 +1,26 @@
-https://covid19.illinois.edu/health-and-support/health-resources/
-Health Resources – COVID-19
-Learn more about COVID-19 and university guidance:
+https://covid19.illinois.edu/on-campus-covid-19-testing-data-dashboard/
+On-Campus COVID-19 Testing & Vaccination Data Dashboard – COVID-19
+General
+Students
+Instructors
+Employees
+On-Campus COVID-19 Testing & Vaccination Data Dashboard
+As part of our commitment to transparency, the University of Illinois Urbana-Champaign is publishing data about our on-campus COVID-19 testing and vaccinations. The university is monitoring these test results continually to provide information for making decisions that maximize the safety of our entire community. We update the dashboard soon after the lab has completed processing all the tests for a particular day. Below are explanations of each metric we are tracking within the dashboard.
+View the dashboard here.
+Note: Beginning Oct. 28, 2021, historical testing data starting at the beginning of the Fall 2020 semester have been updated to assign more accurate affiliations (e.g. faculty, staff, etc.). Data also have been updated to distinguish between initial positive tests and subsequent repeat positive tests. Data prior to August, 17, 2020 have been removed as it was not collected as a part of this data source. Data for that timeframe are still available for download.
+Vaccinations
+The vaccination percentage reflects the number of individuals in the university community who are fully vaccinated (defined as two weeks after final dose) and who have submitted their Vaccination Record Card to be verified by the McKinley Health Center. Individuals who are partially vaccinated are not reflected in the percentage.
+Total Tests Results
+This number shows the total number of COVID-19 saliva tests administered on our campus from July 6, 2020, the day we began testing, to the current day. Each day’s tests have been added together to reach the total number.
+Past Seven-Day Case Positivity Rate
+We calculate our daily test positivity rate as unique cases over all results, specifically the number of unique people who test positive is divided by the total number of tests on that day. On a daily basis, an individual tests only once, so the test and case positivity are the same. The seven-day positivity is calculated by adding the past seven days’ number of new cases and dividing by the sum of the past seven days’ number of tests, in accordance with common practice. With SHIELD’s frequent testing, the past seven days’ number of tests is not the same as the number of unique individuals tested, because most individuals are tested twice or even three times a week.  Thus, our seven-day positivity is not de-duplicated, and care must be used when comparing our seven-day positivity with that of other institutions, regions or states.
+New COVID-19 Cases
+This number shows unique, new cases per day, defined as the first time an individual is detected COVID-19 positive with an on-campus test.
+*Please note: Before Aug. 31 2020, we were showing the number of positive COVID-19 tests per day. The university decided to shift to unique, new cases in order to eliminate counting multiple tests by an individual and to eliminate counting individuals who continue to test COVID-19 positive, even though they have been medically cleared as not contagious and able to participate in on-campus activities. 
+It is common for people who have recovered from a COVID infection to continue shedding genetic material of the virus, and many people continue to test positive. Many of these individuals are no longer infectious. The Champaign Urbana Public Health District and the McKinley Health Center have created a process to evaluate repeat positives to determine if an individual is required to go into isolation again after completing their initial isolation period.
+Case Positivity Rate
+We calculate positivity rates by taking the number of unique, new cases for a given day divided by the number of total tests performed on that day.
+Total Number of Daily Test Results
+The number shows the total number of COVID-19 saliva test results on a particular day.
+We continue to monitor these data to provide a real-time tool for decision-making. We are closely following guidance from Governor Pritzker’s Restore Illinois plan, and we are in continuous contact with Champaign-Urbana Public Health District leaders. In addition to these data, we are monitoring in the number of cases that cannot be traced and capacity for local ICU beds, isolation spaces and quarantining spaces.
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

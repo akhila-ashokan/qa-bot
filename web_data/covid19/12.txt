@@ -1,11 +1,15 @@
-https://covid19.illinois.edu/health-and-support/about-the-test/
-About the test – COVID-19
-Our on-campus testing sites administer a saliva-based test, a process developed by the COVID-19 SHIELD: Target, Test, Tell team. Unlike conventional nasal testing, saliva samples are collected non-invasively, without healthcare workers and with minimal use of PPE. 
-The University of Illinois System received emergency use authorization (EUA) from the U.S. Food and Drug Administration (FDA) for the innovative saliva-based COVID-19 test.
-The lab processing the samples is certified under the federal Clinical Laboratory Improvement Amendments of 1988 (CLIA) to perform high complexity testing. 
-Our test asks individuals to provide a saliva sample because research tells us that saliva is the primary way COVID-19 is spread. More information about the research related to this test method is available.
-The University of Illinois Urbana-Champaign is performing its new rapid, saliva-based COVID-19 test on all students, faculty and staff.
-Compared to the nasal test, the saliva-based test is fast, free of supply chain bottlenecks, and cost-effective, because saliva tests do not require nasal swabs, etc. 
-Compared to other saliva tests, our saliva test skips RNA isolation (a cumbersome process), which allows quicker results.
-Our studies to date show that our saliva-based test provides results that are comparable to other COVID-19 viral test methods.
+https://covid19.illinois.edu/illinois-app/
+Illinois App – COVID-19
+General
+Students
+Instructors
+Employees
+Illinois App
+The Illinois App is the primary way for faculty, staff and students to display their COVID-19 Building Access Status. 
+The COVID-19 Boarding Pass will continue to be an alternate way faculty, staff and students can display their Building Access Status. 
+Please note that on-campus test results will still be available in the MyMcKinley Portal, and you will receive an email when there is a new result. Test results will not be available in the Illinois app.
+Download the Illinois App
+Click here to download the Illinois app for iOS.Click here to download the Illinois app for Android.
+For more information, visit the Illinois app website.
+Additional Resources
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!
