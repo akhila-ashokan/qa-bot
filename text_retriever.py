@@ -85,10 +85,11 @@ class TextRetriever:
             web_content = file_reader.read()
             retrieved_docs_content.append(web_content)
 
-        return retrieved_docs_content
+        final_docs = pd.DataFrame({'Text': retrieved_docs_content, 'Similarity Scores': new_document_df[:num_docs]['Similarity Scores'].values})
+        return final_docs
 
 """
-Example Use:
+#Example Use:
 retriever_object = TextRetriever()
 print(retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5))
 """
