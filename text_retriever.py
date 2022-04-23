@@ -81,7 +81,7 @@ class TextRetriever:
 
         for document in retrieved_docs:
             read_file = document[:-3] + 'txt'
-            file_reader = open(read_file, 'r')
+            file_reader = open(read_file, 'r', encoding='utf-8')
             web_content = file_reader.read()
             retrieved_docs_content.append(web_content)
 

@@ -65,7 +65,8 @@ def pickle_to_text(filename):
         for p in posts:
             f.write(str(p)+'\n\n')
 
-fname = "reddit_posts_feb2022.pickle"
-get_posts("UIUC", fname)
-open_pickle(fname)
-# pickle_to_text(fname)
+if __name__ == "__main__":
+    fname = "reddit_posts_feb2022.pickle"
+    get_posts("UIUC", fname)
+    open_pickle(fname)
+    # pickle_to_text(fname)
