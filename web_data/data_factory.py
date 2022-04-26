@@ -19,7 +19,16 @@ def get_web_data(directory: str) -> dict:
 
 
 def main():
-    get_web_data("admissions")
+    ad_urls = get_web_data("admissions")
+    re_urls = get_web_data("registrar")
+    f = open("addmission_registar_urls.txt", "w")
+    for k,v in ad_urls.items():
+        f.write(k)
+        f.write("\n")
+    for k,v in re_urls.items():
+        f.write(k)
+        f.write("\n")
+
 
 
 if __name__ == "__main__":
