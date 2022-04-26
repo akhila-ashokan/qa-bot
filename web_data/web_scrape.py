@@ -2,7 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 
-test_url = "https://registrar.illinois.edu"
+'''
+IMPORTANT. To use this, simply run python3 web_scrape.py
+To pull a specific subdomain, you need to create a folder to store the 
+text.
+
+Next, change test_url to the correct subdomain url, and chain file_path
+in the main() function to the folder you created.
+'''
+
+test_url = "https://illinois.edu"
 dict_href_links = {}
 set_links_to_visit = set()
 
@@ -64,7 +73,7 @@ def main():
     # print(set_links_to_visit)
     ctr = 1
     for link in set_links_to_visit:
-        scrape_and_save(link, file_path="registrar/", filename=ctr)
+        scrape_and_save(link, file_path="home/", filename=ctr)
         sleep(0.5)
         ctr += 1
     # scrape_and_save(test_url, filename=1)
