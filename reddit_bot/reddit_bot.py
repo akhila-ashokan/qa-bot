@@ -1,7 +1,9 @@
 import praw
 import os
 from dotenv import load_dotenv
+from keep_alive import keep_alive
 
+keep_alive()
 load_dotenv()
 
 # read Reddit credentials from .env file
@@ -29,7 +31,7 @@ subreddit = r.subreddit("CS510")
 # create posts with test dataset 
 
 # reply to the new posts 
-for submission in subreddit.new(limit=100):
+for submission in subreddit.stream.submissions():
     if submission.id not in posts_replied_to:
         submission.reply("This is a bot replying!")
         posts_replied_to.append(submission.id)
