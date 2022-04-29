@@ -11,7 +11,7 @@ Next, change test_url to the correct subdomain url, and chain file_path
 in the main() function to the folder you created.
 '''
 
-test_url = "https://illinois.edu"
+test_url = "https://covid19.illinois.edu"
 dict_href_links = {}
 set_links_to_visit = set()
 
@@ -27,7 +27,8 @@ def scrape_and_save(url, file_path="covid19/", filename=0):
 
     f = open(file_path+str(filename)+".txt", "w")
     f.write(url + "\n")
-    f.write(soup.title.string + "\n")
+    if soup.title:
+        f.write(soup.title.string + "\n")
     for p in paragraph_data:
         # print(p.text)
         f.write(str(p.text) + "\n")
@@ -43,6 +44,8 @@ def get_links(website_link):
             print("link =", link["href"])
             list_links.append(link["href"])
             set_links_to_visit.add(link["href"])
+        elif str(link["href"]).startswith("//"):
+            continue
         # Include all href that do not start with website link but with "/"
         elif str(link["href"]).startswith("/"):
             #print("----Test-------")
@@ -73,10 +76,10 @@ def main():
     # print(set_links_to_visit)
     ctr = 1
     for link in set_links_to_visit:
-        scrape_and_save(link, file_path="home/", filename=ctr)
+        scrape_and_save(link, file_path="covid19/", filename=ctr)
         sleep(0.5)
         ctr += 1
-    # scrape_and_save(test_url, filename=1)
+    scrape_and_save(test_url, filename=1)
 
 
 if __name__ == "__main__":

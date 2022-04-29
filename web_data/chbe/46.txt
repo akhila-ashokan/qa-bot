@@ -1,0 +1,79 @@
+https://chbe.illinois.edu/research/areas/energy-and-sustainability
+Energy and Sustainability | Chemical and Biomolecular Engineering | UIUC
+Have questions?Need help?
+Contact Us
+About
+Ready to apply? Your path to ChBE begins here.
+Undergrad Application Graduate Application
+Admissions
+  Our program is among the best, thanks to our stellar students and faculty. 
+Facts & Rankings
+Academics
+Check out our latest breakthroughs to shape a healthier and more sustainable world. 
+Learn More
+Research
+Help us share the department's latest news. 
+Submit a Story Idea
+News
+Learn more about the pioneering research our faculty members are pursuing.  
+Research Profiles
+People
+
+Check out the latest issue of our alumni magazine.
+Read Mass Transfer
+Alumni
+Invest in the future of chemical engineering. Support our faculty and students. 
+Make a Gift
+Giving
+Energy and Sustainability
+Research groups working in catalysis and surface chemistry in our department are addressing societal challenges in the areas of energy conversion, the production of commodity products and chemicals, and environmental protection. We develop methods to transform biomass and fossil resources into fuels and chemicals; convert CO2 into fuels and chemicals; design environmentally benign industrial chemistries; harness solar and electrochemical energy; and create more effective catalysts for numerous applications.
+Faculty and graduate students are tackling these projects with multidisciplinary approaches that combine experiment, theory, and simulations and often work in collaborative teams with researchers in other departments, within industry, and across the world. Our work has generated numerous patents, established start-up companies (operated by our graduates), and commercialized products and processes. These technologies were developed in our department by work that spans fundamental research, proof of principle demonstrations, and finally, product development. Graduates who have participated in these projects are aggressively recruited for industrial and academic positions.
+Faculty:
+Catalytic Production of Fuels and Chemicals
+As our traditional energy and commodity chemical resources become increasingly scarce, more selective processes and catalysts and renewable feedstocks and energy sources must be developed. Researchers in the Flaherty Lab are exploring approaches to better utilize building blocks, derived from biomass (e.g., ethanol, furans), to create advanced fuels and platform chemicals that can replace petrochemicals for the manufacture of polymers.
+
+Exemplary reactions include selective addition reactions that oligomerize small molecules into aromatic chemicals and the targeted rupture of individual bonds within large molecules to produce valuable fatty alcohols and linear alpha olefins. These projects involve the simultaneous application of advanced in situ spectroscopy and kinetic analysis to understand surface chemistry and the application of catalyst design and reaction engineering principles to control notoriously difficult reactions and make products that society needs.
+
+In related work, the Guironnet Lab harnesses the remarkable catalytic properties of homogeneous catalysts (single metal atom complexes with highly tailorable reactivity and selectivity) to perform difficult hydrocarbon transformations including tandem and cascade reactions. Such reactions are hard to achieve with other types of catalysts that lack the necessary selectivity, but integrating homogeneous catalysts into processes requires finesse. To address this challenge, these catalysts have been incorporated into a novel reactor that allows researchers to gain further insights into the relationship between selectivity, reactivity and stability of these organometallics complexes while they operate. This approach provides direct information that cannot be obtained by other methods. The lessons learned from this work will guide the development of the next generation of catalysts that will be synthesized by Illinois researchers. Researchers in the Mironenko Lab tackle the catalyst design problem for renewable energy applications at a different angle – by predictive modeling of chemical processes on heterogeneous catalyst surfaces at realistic reaction conditions.
+
+Chemical transformations inside a reactor span a multitude of length and time scales, ranging from femtoseconds and angstroms for the thermal motion of atoms to days and meters for catalyst deactivation inside industrial-scale reactors. To address the complex phenomena involved, the group designs multiscale models that provide an atomic-level rationale for experimentally measured macroscopic observables, such as reaction rates of C-C coupling or infrared spectra due to reaction intermediates on core-shell metal/metal-oxide nanoparticles.
+Most importantly, such models help elucidate key features of the optimal catalyst for a particular chemical reaction, revealing the best catalyst candidates to be tested experimentally by collaborators at UIUC. To pursue an ambitious goal of in silico catalyst design, the researchers employ and develop methods borrowed from related disciplines, including density functional theory (from solid state physics), molecular dynamics and variational coarse-graining (from biochemistry), and mean-field kinetic models (from chemical kinetics).
+
+The Peters group studies the industrially important but poorly understood family of single atom catalysts on amorphous silica supports. Unlike homogeneous catalysts, zeolites, and crystalline metals, single atom catalysts on amorphous silica remain entirely intractable to computational investigat
+ion. The central problems are that (i) the amorphous support has an unknown quenched-disordered structure, (ii) metal precursors react with different propensities and rates at different sites, and (iii) the grafted catalyst sites vary exponentially in activity because of their non-uniform activation energies. The Peters group is developing computational methods to overcome these difficulties. Specifically, they have combined machine learning, ab initio calculations, and population balance modeling techniques to model the grafting of metal complexes to amorphous silica.
+
+They have also combined importance sampling techniques from statistical mechanics with machine learning tools to predict the site-averaged kinetics for an ensemble of grafted sites. These tools provide 1000-fold acceleration of computational studies for this once inaccessible domain of catalysis science.
+Photocatalysis, Environmental Protection and Remediation
+Solutions to the energy challenges society faces will increasingly be met by renewable sources of energy including the transformation of sunlight into chemical fuels and electricity. At Illinois, we are working to understand how to design materials that can convert water and sunlight into hydrogen as well as systems that make fuels from CO2, captured from the atmosphere. One of the areas of focus in the Kenis Lab is the production of carbon-neutral fuels and chemicals from the reduction of CO2, captured from power plants and chemical manufacturing facilities using excess electrical power that is available on the grid.
+
+Their work lies at the intersection of electrochemistry and reaction engineering to build reactors and integrated systems that efficiently convert CO2 into useful products. Researchers apply engineering design principles and technoeconomic analyses to determine useful strategies. They also construct uniquely structured microreactors that leverage novel hydrodynamic phenomena that emerge at the microscale. The Flaherty Lab seeks to replace harmful chlorinated oxidants that are used on a massive scale in the manufacture of chemicals. The elusive nature of chlorinated compounds allows them to escape from chemical plants, after which they pose a hazard to human health and the environment.
+
+Work on this topic centers on the direct synthesis of H2O2 (an environmentally benign alternative to chlorine) and the use of H2O2 for the epoxidation of olefins to produce precursors for plastics and the oxidation of sulfides to produce clean burning fuels. Researchers use deep understanding of surface chemistry principles and catalytic chemistry to propose, synthesize and test new catalysts for these reactions. In situ spectroscopy and kinetic analysis provide direct insight to the mechanisms of these reactions and enable the rational design of more selective catalysts.Current separation technologies often require large energy or chemical consumption, and can result in significant secondary pollution.
+Through a combination of materials design and electrochemical engineering, the Su Lab develops advanced separation processes that reduce energetic costs, maximize molecular selectivity, and minimize chemical input. We are interested in the extraction, transformation, and recovery of minority species from various fluid streams using electrochemical processes. For example, we are interested in the remediation of micropollutants of concern, where the goal is to remove them at ultra-dilute concentrations from water, and reduce their toxicity through electrochemical transformations. In general, our work has implications for on-site water purification in remote areas, industrial waste treatment and resource recovery, and the downstream purification of fine chemical products.
+Surface Science and Interfacial Phenomena
+Molecules dwelling at phase boundaries play a critical role in determining the material properties. Interfacial phenomena are incredibly important and must be understood to develop useful micromaterials and thin coatings for a variety of applications. At Illinois, we employ experimental, computational, and theoretical approaches to push the boundary of our understanding of interfacial phenomena.
+
+With such knowledge, the Diao group manipulates interfacial structure, material composition, and transport processes to design and create new functional materials with desirable electronic, optical, reactive and mechanical properties. Their work leads towards the development of new, scalable methods to manufacture flexible electronic devices (e.g., microchips) and next-generation organic solar cells.
+At the fundamental level, the Su Lab focuses on the molecular engineering of electrochemical interfaces, aiming to control binding affinity and reversibility towards target analytes. Redox-active materials, either crystalline or polymeric, have traditionally been interesting platforms for energy storage and electrocatalysis. We seek to discover new modes of interfacial interaction for materials synthesis and separation processes. A major aim of our group is to create conductive, redox-active nanostructures that can enable molecular selectivity and high electrochemical performance. These fundamental studies are expected to lead to greener and more efficient approaches for chemical processing.
+The distinct structure and dynamics of gas-solid and liquid-solid interfaces, often confined to a nanometer-thick layer, necessitates a combination of experimental and computational methods to overcome resolution limitations of existing measurement tools. The Mironenko Lab uses deep expertise in quantum chemical principles to develop rigorous, physics-based theoretical methods (reactive force fields) that will accelerate traversing the potential energy surface by interfacial atoms, enabling predictions of the most thermodynamically stable structural motifs, such as metal-supported, surface metal oxide patches and monolayers. Deep quantum chemical roots of the framework hold promise to make it a general-purpose approach for modeling chemical reactions in a computationally efficient way, with the anticipated impact in heterogeneous catalysis and surface science, as well as in organometallic chemistry.
+Electrocatalysts and Fuel Cells
+Fuel cells generate electrical power from chemical fuels with efficiencies that are substantially greater than thermal combustion processes (e.g. gasoline and diesel engines) and with less harmful emissions. However, fuel cells are used surprisingly less frequently than expected, because the electrocatalysts needed for these systems are composed of expensive and rare metals (e.g., Pt).
+
+The Yang group combines knowledge of electrochemistry and synthetic expertise to make more reactive yet cheaper electrocatalysts by combining two or more metals into precisely structured nanocrystals. Recent work on Pt-Ni and Pt-Ag structures (among others) shows that reactivity of these structures reflects the precise location of each type of atoms in the nanocrystal surfaces. Their group applies electrochemical techniques, environmental transmission electron microscopy, and other spectroscopic methods to characterize these structures and to watch them operate.
+
+Chemical and Biomolecular Engineering
+ School of Chemical Sciences
+College of Liberal Arts & Sciences
+The Grainger College of Engineering
+University of Illinois
+114 Roger Adams Laboratory, MC-712
+                                                        600 South Mathews Avenue
+                                                        Urbana, IL 61801, USA
+							P: (217) 333-3640 | F: (217) 333-5052
+                                                       Email: chbe@illinois.edu
+
+Learn more
+Connect
+© 2022 University of Illinois Board of Trustees
+Privacy Policy
+Powered by SiteManager | Contact Webmaster

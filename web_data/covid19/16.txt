@@ -1,26 +1,30 @@
-https://covid19.illinois.edu/on-campus-covid-19-testing-data-dashboard/
-On-Campus COVID-19 Testing & Vaccination Data Dashboard – COVID-19
+https://covid19.illinois.edu/away-from-campus/travel/
+Travel – COVID-19
 General
 Students
 Instructors
 Employees
-On-Campus COVID-19 Testing & Vaccination Data Dashboard
-As part of our commitment to transparency, the University of Illinois Urbana-Champaign is publishing data about our on-campus COVID-19 testing and vaccinations. The university is monitoring these test results continually to provide information for making decisions that maximize the safety of our entire community. We update the dashboard soon after the lab has completed processing all the tests for a particular day. Below are explanations of each metric we are tracking within the dashboard.
-View the dashboard here.
-Note: Beginning Oct. 28, 2021, historical testing data starting at the beginning of the Fall 2020 semester have been updated to assign more accurate affiliations (e.g. faculty, staff, etc.). Data also have been updated to distinguish between initial positive tests and subsequent repeat positive tests. Data prior to August, 17, 2020 have been removed as it was not collected as a part of this data source. Data for that timeframe are still available for download.
-Vaccinations
-The vaccination percentage reflects the number of individuals in the university community who are fully vaccinated (defined as two weeks after final dose) and who have submitted their Vaccination Record Card to be verified by the McKinley Health Center. Individuals who are partially vaccinated are not reflected in the percentage.
-Total Tests Results
-This number shows the total number of COVID-19 saliva tests administered on our campus from July 6, 2020, the day we began testing, to the current day. Each day’s tests have been added together to reach the total number.
-Past Seven-Day Case Positivity Rate
-We calculate our daily test positivity rate as unique cases over all results, specifically the number of unique people who test positive is divided by the total number of tests on that day. On a daily basis, an individual tests only once, so the test and case positivity are the same. The seven-day positivity is calculated by adding the past seven days’ number of new cases and dividing by the sum of the past seven days’ number of tests, in accordance with common practice. With SHIELD’s frequent testing, the past seven days’ number of tests is not the same as the number of unique individuals tested, because most individuals are tested twice or even three times a week.  Thus, our seven-day positivity is not de-duplicated, and care must be used when comparing our seven-day positivity with that of other institutions, regions or states.
-New COVID-19 Cases
-This number shows unique, new cases per day, defined as the first time an individual is detected COVID-19 positive with an on-campus test.
-*Please note: Before Aug. 31 2020, we were showing the number of positive COVID-19 tests per day. The university decided to shift to unique, new cases in order to eliminate counting multiple tests by an individual and to eliminate counting individuals who continue to test COVID-19 positive, even though they have been medically cleared as not contagious and able to participate in on-campus activities. 
-It is common for people who have recovered from a COVID infection to continue shedding genetic material of the virus, and many people continue to test positive. Many of these individuals are no longer infectious. The Champaign Urbana Public Health District and the McKinley Health Center have created a process to evaluate repeat positives to determine if an individual is required to go into isolation again after completing their initial isolation period.
-Case Positivity Rate
-We calculate positivity rates by taking the number of unique, new cases for a given day divided by the number of total tests performed on that day.
-Total Number of Daily Test Results
-The number shows the total number of COVID-19 saliva test results on a particular day.
-We continue to monitor these data to provide a real-time tool for decision-making. We are closely following guidance from Governor Pritzker’s Restore Illinois plan, and we are in continuous contact with Champaign-Urbana Public Health District leaders. In addition to these data, we are monitoring in the number of cases that cannot be traced and capacity for local ICU beds, isolation spaces and quarantining spaces.
+Travel
+University travel
+International Travel: International travel on behalf of the university should only be approved for essential reasons when the objective of the travel cannot effectively be accomplished virtually. It requires approval by the respective Executive Officer (dean, vice provost, vice chancellor, etc.), and will be informed by the U.S. Department of State and CDC guidance on international travel advisories.
+Domestic Travel: Travel on behalf of the university will no longer need additional approvals, other than the standard approvals required pre-COVID (before March 2020). 
+Study Abroad: Students are encouraged to review the latest updates and resources on the Education Abroad website.
+Personal travel 
+Assess the COVID-19 situation at your destination prior to departure to ensure travel to the location can be safely managed. This is particularly important if you are considering international travel as the restrictions are very fluid.
+When traveling, continue to follow the CDC’s recommendations.
+After travel
+Fully vaccinated individuals do not need to self-quarantine after travel. All individuals (vaccinated and unvaccinated) should test as soon as possible upon return. (Building access will not be affected by this test result if individuals have a university-verified vaccine in the MyMcKinley Portal). 
+Travelers who are NOT fully vaccinated need to self-quarantine for 7 days and get tested 3-5 days after your return. Afterwards, non-vaccinated individuals should resume their regular testing schedule.
+Additional Guidance
+Frequently Asked Questions
+If you forget a testing day, you should be tested as soon as possible.
+If you will be away from campus for less than a week, test the day before you leave. Then, if you receive a noncompliance email from the Office for Student Conflict Resolution, please indicate the reason for missing a test. If you will be away from campus for more than a week, update your Student Location address in Student Self-Service. Remember to update this address again when you return to campus. You should resume testing as soon as you return.
+The University’s COVID-19 test is a Saliva RT-PCR test performed in a CLIA certified lab. After your receive your test result message via the MyMcKinley Portal, you can print those results or reach out to McKinley at studenthealthcenter@illinois.edu to request an official report. Official reports include full patient identifiers, test name, date of collection and testing, name and of the CLIA Certified lab, as well as the results. We recommend that you confirm with your airline what type of report or test will be accepted. If you need a nasal swab test that is FDA certified, our saliva test documentation will not be sufficient for your travel needs. Please note that obtaining a nasal test result might require more time than required by most airlines and on-demand options within the community are limited. McKinley does not provide personalized letters of authenticity with their official reports.  
+Colleagues traveling within the U.S. are permitted to visit campus. Colleagues traveling to campus from outside the U.S. should only be approved for essential reasons when the objective of the travel cannot effectively be accomplished virtually. It requires approval by the respective Executive Officer (dean, vice provost, vice chancellor, etc.).
+Per CDC guidelines we recommend individuals do not travel to campus until they are fully vaccinated if they are able to do so. If they are here for several days, we also encourage them to utilize our free on-campus COVID-19 testing. Visiting colleagues should arrange to receive building access with the unit or department that has invited them to campus.
+Fully vaccinated individuals do not need to self-quarantine after travel.  All individuals (vaccinated and unvaccinated) should test as soon as possible upon return. (Building access will not be affected by this test result if individuals have a university-verified vaccine in the MyMcKinley Portal). 
+Travelers who are NOT fully vaccinated need to self-quarantine for 7 days and get tested 3-5 days after your return. Afterwards, non-vaccinated individuals should resume their regular testing schedule
+For more information, please visit the CDC website and the Travel page on the university COVID-19 website.
+According to a CDC order, “if you plan to travel internationally, you will need to get tested no more than 3 days before you travel by air into the United States and show your negative result to the airline before you board your flight, or be prepared to show documentation of recovery (proof of a recent positive viral test and a letter from your healthcare provider or a public health official stating that you were cleared to travel).” Please continue to check the CDC website as guidance evolves.
+Additional Resources
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

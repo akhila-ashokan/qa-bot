@@ -1,0 +1,71 @@
+https://chbe.illinois.edu/news/stories/46585
+An NSF Expedition in Computing: Mind in Vitro - Computing with Living Neurons | Chemical and Biomolecular Engineering | UIUC
+Have questions?Need help?
+Contact Us
+About
+Ready to apply? Your path to ChBE begins here.
+Undergrad Application Graduate Application
+Admissions
+  Our program is among the best, thanks to our stellar students and faculty. 
+Facts & Rankings
+Academics
+Check out our latest breakthroughs to shape a healthier and more sustainable world. 
+Learn More
+Research
+Help us share the department's latest news. 
+Submit a Story Idea
+News
+Learn more about the pioneering research our faculty members are pursuing.  
+Research Profiles
+People
+
+Check out the latest issue of our alumni magazine.
+Read Mass Transfer
+Alumni
+Invest in the future of chemical engineering. Support our faculty and students. 
+Make a Gift
+Giving
+An NSF Expedition in Computing: Mind in Vitro - Computing with Living Neurons
+ 4/22/2022
+ Michelle R. Wellens, Department of Computer Science
+The National Science Foundation awarded a 7-year, $15 million project to a multi-university team led by the University of Illinois Urbana-Champaign (UIUC). The resulting groundbreaking and path-finding research, entitled “Mind in vitro - Computing with Living Neurons,” will imagine computers and robots that are human-designed, but living.
+The project is supported by the NSF Expeditions in Computing program, which was created more than a decade ago by the Foundation’s Directorate for Computer and Information Science and Engineering (CISE) to build off past successes and afford its research community new, ambitious opportunities to pursue.
+This Expedition – just one of two to be awarded this year – will seek answers to a host of new and fundamental questions: Can computing systems be built out of living neurons? Can they achieve basic hallmarks of cognition such as learning, attention, curiosity or creativity, so pervasive in biology yet elusive in modern computing? How do we design and fabricate the envisioned ‘wetware’? How do we understand its language? How do we think of software in terms of emergence rather than prescribed logic?
+The resulting technology will have profound, lasting impact in virtually every field related to information processing, robotics, health and medicine, with deep ramification across human knowledge.
+It has the potential to revolutionize neuroscience, with radically new behavioral models.
+“In this Expedition we imagine computers and robots that are human-designed, but living. That can be programmed, but whose behaviors are not specified – and instead, emerge. These systems will grow, heal, learn and explore. They will open a new space of possibilities yet to be imagined,” said Mattia Gazzola, Mind in vitro co-director and professor, Mechanical Science & Engineering at UIUC.
+In addition to Gazzola, the project features co-directors Nancy M. Amato, Department Head, Illinois Computer Science at UIUC; and Taher Saif, professor, Mechanical Science & Engineering at UIUC.
+Also, the project includes Assessment lead Aileen Reid, professor, School of Education at UNC Greensboro; Ethics lead Nicole Martinez, professor, Stanford Center for Biomedical Ethics, Department of Pediatrics at Stanford University; and Amato as Outreach and Education lead.
+Teams of researchers and students will collaboratively develop the science and technology to fabricate, model, program, scale and embody biological processors.
+Their work will unfold across four thrusts, structured around what makes a system compute and act:
+The following individuals compose the rest of this research team: Rashid Bashir, Dean, The Grainger College of Engineering, UIUC; John M. Beggs, professor, Physics, Indiana University Bloomington; Karin Dahmen, professor, Physics, UIUC; John Rogers, professor, Material, Biomedical Engineering and Neurological Surgery, Northwestern University; Sepideh Sadaghiani, professor, College of Liberal Arts & Science, Department of Psychology, UIUC; Ivan Soltesz, professor, Neurosurgery and Neurosciences, Stanford University; and Lav R. Varshney, professor, Electrical and Computer Engineering, UIUC.
+This project will also serve as a catalyst of ethics research. Its evocative power will excite students from all backgrounds about computing.
+Excitement around this project will be leveraged to initiate and grow a Mind in vitro community, through internships, workshops, seminars, and a dedicated mini-curriculum. Art-of-Science exhibitions in massive public spaces will allow us to connect with a broad and diverse audience. Finally, full commitment to open science is core, and protocols, software, hardware, and educational material will all be made freely available.
+“This Expedition captures the imagination, and I’m sure it will accelerate interest in STEM fields in general—and computing in particular,” said Susan A. Martinis, Vice Chancellor for Research and Innovation at UIUC. “This type of collaborative, creative work really speaks to our research mission at the University of Illinois Urbana-Champaign, driving student experiences and community engagement, and powering innovation and positive change locally, nationally, and globally.”
+Through the NSF Expeditions in Computing program, the Mind in vitro - Computing with Live Neurons Expedition will open a new space of possibilities in computing yet to be imagined over the next seven years.
+The multidisciplinary and multi-institutional effort will draw from expertise at The Grainger College of Engineering and the Institute for Genomic Biology at UIUC, and its partner institutions: Indiana University, Northwestern University, Stanford University and UNC Greensboro.
+This team collectively offers the resources and opportunities necessary for this program. UIUC has major laboratories that provide state-of-the-art computing (National Center for Supercomputing Applications), cell culturing and imaging (Institute for Genomic Biology, Beckman Institute), fabrication (Micro and Nanotechnology Lab), and characterization (Materials Research Lab) capabilities. Stanford’s Wu Tsai Neuroscience Institute has cutting-edge technology for neural circuit manipulation. Northwestern’s Institute for Bioelectronics provides world-class bio/nanofabrication abilities. IU is home to the Gill Center for Biomolecular Science and the Network Science Institute.
+"Both of the 2022 awards support efforts that envision future materials for computing systems in a post- Moore's law era and that map out comprehensive research from the materials themselves to the higher-level application opportunities and societal benefits that can emerge from them," said NSF Assistant Director for Computer and Information Science and Engineering Margaret Martonosi.
+About the Carl R. Woese Institute for Genomic Biology
+The Carl R. Woese Institute for Genomic Biology (IGB) advances life science research at the University of Illinois Urbana-Champaign by tackling grand challenges in fundamental and applied research with genomics and multi-disciplinary team science. Originally proposed at the dawn of the genomic era as the embodiment of centralized biological and biotechnological research at UIUC, the IGB continues to fulfill that role today. IGB members conduct pathbreaking genomic research to address societal issues in such areas as food security, energy, health, technology, and sustainability, drawn from many schools and departments including biology, chemistry, physics, engineering, sociology, and business. Work ranges from basic research that expands the horizons of human knowledge to applied research that builds on this foundational knowledge to create new technologies, with a complement of research themes that are dynamic, adapting to new discoveries, methods, and needs.
+About The Grainger College of Engineering
+The Grainger College of Engineering at the University of Illinois Urbana-Champaign is one of the world's top-ranked engineering institutions, and a globally recognized leader in engineering education, research and public engagement. With a diverse, tight-knit community of faculty, students and alumni, Grainger Engineering sets the standard for excellence in engineering, driving innovation in the economy and bringing revolutionary ideas to the world. Through robust research and discovery, our faculty, staff, students and alumni are changing our world and making advances once only dreamed about, including the MRI, LED, ILIAC, Mosaic, YouTube, flexible electronics, electric machinery, miniature batteries, imaging the black hole and flight on Mars. The world's brightest minds from The Grainger College of Engineering tackle today's toughest challenges. And they are building a better, cooler, safer tomorrow. Visit grainger.illinois.edu for more information.
+About NSF Expeditions
+Created as part of the NSF’s Directorate for Computer and Information Science and Engineering (CISE), Expeditions builds on past successes and provides the CISE research and education community with the opportunity to pursue ambitious, fundamental research agendas that promise to de?ne the future of computing and information. In planning Expeditions projects, investigators are strongly encouraged to come together within or across departments or institutions to combine their creative talents in the identi?cation of compelling, transformative research agendas that look ahead by at least a decade and promise disruptive innovations in computer and information science and engineering for many years to come. Visit the Expeditions website for more information.
+
+Chemical and Biomolecular Engineering
+ School of Chemical Sciences
+College of Liberal Arts & Sciences
+The Grainger College of Engineering
+University of Illinois
+114 Roger Adams Laboratory, MC-712
+                                                        600 South Mathews Avenue
+                                                        Urbana, IL 61801, USA
+							P: (217) 333-3640 | F: (217) 333-5052
+                                                       Email: chbe@illinois.edu
+
+Learn more
+Connect
+© 2022 University of Illinois Board of Trustees
+Privacy Policy
+Powered by SiteManager | Contact Webmaster

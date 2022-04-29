@@ -1,0 +1,65 @@
+https://chbe.illinois.edu/research/areas/computational-engineering
+Computational Engineering | Chemical and Biomolecular Engineering | UIUC
+Have questions?Need help?
+Contact Us
+About
+Ready to apply? Your path to ChBE begins here.
+Undergrad Application Graduate Application
+Admissions
+  Our program is among the best, thanks to our stellar students and faculty. 
+Facts & Rankings
+Academics
+Check out our latest breakthroughs to shape a healthier and more sustainable world. 
+Learn More
+Research
+Help us share the department's latest news. 
+Submit a Story Idea
+News
+Learn more about the pioneering research our faculty members are pursuing.  
+Research Profiles
+People
+
+Check out the latest issue of our alumni magazine.
+Read Mass Transfer
+Alumni
+Invest in the future of chemical engineering. Support our faculty and students. 
+Make a Gift
+Giving
+Computational Engineering
+Several research groups in our department are involved in scientific computing and modeling of complex chemical and biomolecular systems with the goal of elucidating their underlying design principles. For example, we are investigating how chemical reactions occur on catalyst surfaces, how enzymes convert substrates into products, how cellular signaling works at the molecular level and how materials self-assemble. The University of Illinois Urbana-Champaign is one of the leading universities in the world in the field of scientific computing. Our campus is home to the Blue Waters Supercomputer and National Center for Supercomputing Applications, both of which provide unique resources and opportunities to our graduate students working on computational problems. Currently, there are four faculty members working in this research area.
+Faculty:
+Professor Diwakar Shukla
+
+The long-term research interest of the Shukla Group is the combined use of theory, computation, and experiments to develop quantitative models of biological phenomena relevant for health, energy and environment. The main goals of the group’s projects are to develop a platform for integrating computational methods for understanding protein function; elucidating mechanistic insights to regulate plant growth and development within the context of global climate change; and understand complex manipulation of signaling networks in both plants and humans by small molecules. Under this broad umbrella of computational molecular sciences, the Shukla Group integrates ideas from a wide range of disciplines to answer questions that are tied together by a vision of “Dynamic” biology and its role in engineering products for human health, energy and environment.
+Professor Baron Peters
+
+The Peters Group investigates the kinetics of nucleation, electron transfer, and catalytic reactions that depend on the properties of short-lived and infrequently-visited transition states. Researchers obtain insights into the properties of transition states by using special “rare events” methods from molecular simulation and quantum chemistry. The applications are focused on the kinetics of crystal nucleation and growth, on catalysis by amorphous materials, and on reactions in polar solvents and other complex environments. In each of these areas, the Peters Group develops state-of-the-art simulation techniques to overcome limitations of present-day simulation techniques. In particular, the group specializes in stochastic models that link molecular-scale dynamics and properties to phenomena at long time scales and continuum length scales.
+Professor Charles Sing
+
+Research in the Sing Group is focused on charged polymers, polymer dynamics, and biophysics. Researchers use coarse-grained models to understand the emergent physics of polymer or biophysical systems, and then use the resulting insights to guide the design new materials. Current research efforts are focused on problems that are challenging because they span large length and time scales, and new theory or simulation methods are necessary to yield new fundamental physical principles. The figure below the competitive binding of multiple species that may couple to the properties of an underlying substrate.
+Professor Alex Mironenko
+Research in the Mironenko group focuses on computational heterogeneous catalysis, environment-modulated catalyst dynamics, and physics-based models of reactive potential energy surfaces. The long-term goal of the group is to develop a set of first principles-based approaches that will enable the construction of comprehensive and accurate dynamic models of a catalytic site and its environment, paving the way to solving one of the long-standing problems in chemical engineering – computational prediction of an optimal material that catalyzes a specific chemical reaction. Applications include C-C coupling reactions implicated in renewable energy production, biomimetic catalysts for environmental remediation, and low-dimensional supported metal oxides for redox chemistries.
+Professor Jonathan Higdon
+
+The Higdon research group investigates geophysical fluid dynamics associated with evolution of meandering rivers; develops simulations for large scale systems of hyperbolic partial differential equations for petroleum reservoirs and geophysical transport processes; and investigates the micro-scale dynamics of complex fluids.
+Professor Antonia Statt
+
+The Statt group aims to understand the fundamental microscopic properties and processes in soft matter systems by using computational and theoretical tools. Researchers in the group develop simple coarse-grained models to simulate materials ranging from well ordered, self-assembled block copolymers to heterogeneous mixtures of colloids. The long-term goal of the group is to develop a deep understanding of the physical driving forces that are at play at different length- and timescales in those soft matter systems. Ultimately, this improved knowledge will yield advanced design principles for materials with applications in transportation, energy, and health. 
+The figure (right) shows work on stress-responsive polymer materials for applications, ranging from self-healing or self-strengthening materials, shape recovering materials, chemical sensing or damage sensing, and bio-related control and release systems.
+
+Chemical and Biomolecular Engineering
+ School of Chemical Sciences
+College of Liberal Arts & Sciences
+The Grainger College of Engineering
+University of Illinois
+114 Roger Adams Laboratory, MC-712
+                                                        600 South Mathews Avenue
+                                                        Urbana, IL 61801, USA
+							P: (217) 333-3640 | F: (217) 333-5052
+                                                       Email: chbe@illinois.edu
+
+Learn more
+Connect
+© 2022 University of Illinois Board of Trustees
+Privacy Policy
+Powered by SiteManager | Contact Webmaster

@@ -1,32 +1,28 @@
-https://covid19.illinois.edu/vaccines-for-covid-19/
-Vaccination and booster requirement – COVID-19
+https://covid19.illinois.edu/more-information/questions/
+Questions – COVID-19
 General
 Students
 Instructors
 Employees
-Vaccination and booster requirement
-Gov. J.B. Pritzker announced a mandate that all state employees and university students must be vaccinated against COVID-19. 
-University COVID-19 vaccination and booster requirement
-COVID-19 vaccination and booster exemptions
-Accepted COVID-19 Vaccines
-The Centers for Disease Control & Prevention (CDC) guidance regarding COVID-19 vaccines applies to vaccines approved by the U.S. Food and Drug Administration and vaccines currently authorized for emergency use (EUA) by the U.S. Food and Drug Administration. The following COVID-19 vaccines will be accepted by the university for building access and compliance.
-FDA approved vaccines:
-FDA emergency use authorization (EUA) vaccines:
-FAQ
-For additional questions about COVID-19 vaccinations, the Illinois Department of Public Health has compiled a comprehensive list of frequently asked questions.
-University guidance
-The Centers for Disease Control & Prevention (CDC) guidance regarding COVID-19 vaccines applies to vaccines approved by the U.S. Food and Drug Administration and vaccines currently authorized for emergency use (EUA) by the U.S. Food and Drug Administration. The following COVID-19 vaccines will be accepted by the university for building access and compliance.
-FDA approved vaccines:
-FDA emergency use authorization (EUA) vaccines:
-These COVID-19 vaccines will be accepted by the university for building access and compliance. If you cannot get one of these vaccines before you arrive to campus, you will be able to receive an approved vaccine upon your arrival.
-If you are fully vaccinated with a university-verified record in the MyMcKinley Portal, you are not required to participate in the testing program. The only exception is if you receive a notification that you are in a location with increased cases (targeted testing) and need to test every other day for a period of time.
-If you are not fully vaccinated and you have an approved medical or religious vaccination exemption, you are required to test.
-If you are not fully vaccinated with a university-verified record and you do not have an approved medical or religious vaccination exemption, you are required to test until you are fully vaccinated.
-Please note that even individuals who have a verified Vaccination Record Card on file will still have full access to the COVID-19 testing program and may continue testing.
-The university is following guidance from the CDC that says individuals who previously recovered from COVID-19 should still get vaccinated. All students, faculty and staff are required to be fully vaccinated with a university-accepted COVID-19 vaccine.
-Individuals who have recovered from COVID-19 should receive a vaccine or booster as soon as possible. An exception to this guidance, according to the CDC, is that those who have received monoclonal antibodies or convalescent plasma during COVID-19 treatment should wait 90 days before getting the vaccine. If you have received one of these treatments, you should consult with your healthcare provider.
-You are required to upload your Vaccination Record Card to the MyMcKinley Portal if you do not want to continue the on-campus COVID-19 testing program. This gathers and stores this information in a secure system, because vaccination records are private health information. This will be the official record of who is vaccinated on campus. 
-If you were vaccinated in the state of Illinois and need a copy of your vaccine record, you should first contact the place where you were vaccinated. If they are unable to supply a sufficient record, you can request a copy of your State of Illinois immunization record be sent to you directly from the Illinois Department of Public Health’s I-CARE system. Complete this records release form and follow all instructions listed at the top of the form to submit to IDPH. You can also access your records through IDPH’s immunization portal, Vax Verify. 
-The CDC recommends that fully vaccinated individuals who experience COVID-19-like symptoms get tested for COVID-19 as soon as possible. Fully vaccinated individuals will still have full access to on-campus testing.
+Questions
+Frequently Asked Questions
+Frequently Asked Questions can be found on the COVID-19 pages specific to that topic. 
+Who to contact
+For additional questions about a specific topic, particularly if a campus office is responsible for that information, please contact one of the following departments:
+On-campus testing questionsEmail: covidwellness@illinois.eduPhone: +1 217-333-1900
+Illinois app questions Website: app.illinois.edu/support/Contact: Technology Services Help Desk
+SHIELD CU COVID-19 testing for Illinois families Email: shieldcu@illinois.eduWebsite: osfhealthcare.org/shield-cu
+Student medical questionsAsk the McKinley ChatBotEmail: studenthealthcenter@illinois.eduPhone: +1 217-333-2700
+Immunization hold questionsAsk the McKinley ChatBotEmail: studenthealthcenter@illinois.eduPhone: +1 217-333-2700
+Champaign County vaccine information (Champaign County residents) Email: coronavirus@c-uphd.orgPhone: +1 217-239-7877
+Visa and immigration questions (international students)Email: isss@illinois.eduPhone: +1 217-333-1303
+Study abroad questionsEmail: safetyabroad@illinois.eduPhone: +1 217-333-6104
+University Housing questionsEmail: housing@illinois.eduPhone: +1 217-333-7111
+Student and academic life questionsEmail: studentaffairs@illinois.eduPhone: +1 217-333-1300
+Undergraduate admissions questionsEmail: admissions@illinois.eduPhone: +1 217-333-0302
+Graduate student questionsEmail: grad@illinois.eduPhone: +1 217-333-0035
+University employment questionsEmail: ihr@illinois.eduPhone: +1 217-333-3105
+Event planning during COVID-19 questionsEmail: covid-plan-review@illinois.edu.
+If you can’t find the information you’re looking for or you have further questions, contact the university by email at covid-19@illinois.edu
 
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

@@ -1,18 +1,36 @@
-https://covid19.illinois.edu/health-and-support/about-the-test/
-About the test – COVID-19
+https://covid19.illinois.edu/health-and-support/how-to-test/
+How to test and receive results – COVID-19
 General
 Students
 Instructors
 Employees
-About the test
-The University of Illinois saliva test
-Our on-campus testing sites administer a saliva-based test, a process developed by the COVID-19 SHIELD: Target, Test, Tell team. Unlike conventional nasal testing, saliva samples are collected non-invasively, without healthcare workers and with minimal use of PPE. 
-The University of Illinois System received emergency use authorization (EUA) from the U.S. Food and Drug Administration (FDA) for the innovative saliva-based COVID-19 test.
-The lab processing the samples is certified under the federal Clinical Laboratory Improvement Amendments of 1988 (CLIA) to perform high complexity testing. 
-Background
-Our test asks individuals to provide a saliva sample because research tells us that saliva is the primary way COVID-19 is spread. More information about the research related to this test method is available.
-The University of Illinois Urbana-Champaign is performing its new rapid, saliva-based COVID-19 test on all students, faculty and staff.
-Compared to the nasal test, the saliva-based test is fast, free of supply chain bottlenecks, and cost-effective, because saliva tests do not require nasal swabs, etc. 
-Compared to other saliva tests, our saliva test skips RNA isolation (a cumbersome process), which allows quicker results.
-Our studies to date show that our saliva-based test provides results that are comparable to other COVID-19 viral test methods.
+How to test and receive results
+On This Page
+Getting Tested
+Eligibility
+The test is available to current students, faculty, staff and retirees at the University of Illinois Urbana-Champaign who have active NetIDs. 
+Community members, family members and visitors can test through SHIELD CU. Please visit the SHIELD CU website for more information, including testing locations and hours.
+Cost
+The test is free.
+Before getting tested
+You should refrain from eating, drinking, tooth brushing, mouth washing, gum chewing, and tobacco use for at least one hour before submitting your saliva sample at the test location.
+Make sure you bring your current iCard or have the Illinois app downloaded.
+The testing process
+You will be asked to provide a saliva sample. The sample collection only takes a few minutes.
+When you arrive at an on-campus testing location, you will be asked the following questions:
+You can choose to not answer the next two questions, in which case “unknown” will be selected. The Illinois Department of Public Health has requested we ask each person’s race who is tested on-campus. Providing this information is optional for each person who is tested.
+Individuals will verify that their name is correct on the test tube label. Next, you will move to a saliva station where you will take the lid off the test tube and dribble saliva into the tube. Once complete, replace the lid and take the tube to the collection station.
+At collection, you will hold up your test tube so staff can confirm that there is enough saliva in the tube. Staff will ask that you return to a test station if enough saliva is not in the tube.
+You will be offered a copy of a COVID-19 Test Fact Sheet for Patients. If you do not want to take a physical copy, an online copy is available in PDF format.
+Test Results
+Getting your results
+Typical test results are expected within 12 hours, but results could take up to 48 hours.
+How results are processed and stored
+Questions about testing and results
+The University of Illinois COVID Wellness Answer Center is available to answer questions about on-campus testing and results. 
+Please contact the COVID Wellness Answer Center by email at covidwellness@illinois.edu or call 217-333-1900. Please email for faster response times.
+FAQ
+Invalid results typically occur when non-optimal saliva samples are submitted. Before your next test, please be sure to refrain from eating, drinking, tooth brushing, mouth washing, or tobacco use for at least 1 hour prior to submitting your saliva sample. For best results, it is recommended to hydrate during the morning and get tested in the afternoon.
+Go to your MyMcKinley portal. Click the “Labs” tab in the menu and select your test result to print an official copy. 
+The Illinois Department of Public Health has requested we ask each person’s race who is tested on-campus. Providing this information is optional for each person who is tested.
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

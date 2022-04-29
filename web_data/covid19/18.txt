@@ -1,34 +1,18 @@
-https://covid19.illinois.edu/health-and-support/face-coverings/
-Face Coverings – COVID-19
+https://covid19.illinois.edu/health-and-support/about-the-test/
+About the test – COVID-19
 General
 Students
 Instructors
 Employees
-Face Coverings
-On this page:
-When and where do you have to wear a face covering?
-Recommended face coverings
-N95 and KN95 masks
-N95 and KN95 masks provide medical-grade protection. 
-Level 3 surgical masks
-Level 3 surgical masks provide additional protection compared to other disposable face masks. Disposable face masks provide coverage against droplet spread, but they may not hold up to repeated wear or washing.
-Other acceptable face coverings
-Cloth face masks
-Cloth masks provide protection against droplet spread. 
-Face shield
-A face shield, often made of plastic, usually fits over the individual’s head, although some are neck-mounted.
-A face shield is not an adequate substitute for a face covering. Face shields should only be used as an additional layer of protection or used temporarily as detailed below.
-A face shield does not fit tight against your face, and therefore it does not provide the same level of protection against droplet spread as a properly worn face covering. As an alternative, units can purchase clear face masks through Central Stores by searching for “smile mask.”
-When can I use a face shield instead of a face covering? 
-A face shield is different than a face covering. If using a forehead-mounted clear shield, the shield should extend from ear-to-ear and to the bottom of the speaker’s chin when their mouth is open. For a neck-mounted shield, it should be angled so that no droplets can escape around the sides or top of the shield. 
-It is only acceptable to temporarily use a face shield instead of a face covering, and only in these circumstances:
-Clear face coverings
-A clear face covering is different than a face shield. Clear face coverings fit snugly and have a clear window so the speaker’s lips are visible. 
-If you are a student and have an ADA accommodation, you can request a clear face covering through DRES. For more information, please contact Tina Cowsert (tcowsert@illinois.edu).
-If you are a faculty or staff member and have an ADA accommodation, you can request a clear face covering from the ADA Division of the Office for Access and Equity by contacting adadivision@illinois.edu. 
-If you do not have an accommodation, but you would like a clear face covering, units can purchase them through Central Stores by searching for “smile mask.”
-Face covering accommodations
-Individuals with a medical condition or disability that prevents them from safely wearing a face covering may seek a reasonable accommodation. Students needing an accommodation should contact the division of Disability Resources & Educational Services (DRES), and employees (including student employees) needing workplace accommodations should contact the ADA Division of the Office for Access and Equity.
-One-on-one meetings and face coverings
-Individuals who are not comfortable meeting one-on-one in their offices without face coverings may do the following:
+About the test
+The University of Illinois saliva test
+Our on-campus testing sites administer a saliva-based test, a process developed by the COVID-19 SHIELD: Target, Test, Tell team. Unlike conventional nasal testing, saliva samples are collected non-invasively, without healthcare workers and with minimal use of PPE. 
+The University of Illinois System received emergency use authorization (EUA) from the U.S. Food and Drug Administration (FDA) for the innovative saliva-based COVID-19 test.
+The lab processing the samples is certified under the federal Clinical Laboratory Improvement Amendments of 1988 (CLIA) to perform high complexity testing. 
+Background
+Our test asks individuals to provide a saliva sample because research tells us that saliva is the primary way COVID-19 is spread. More information about the research related to this test method is available.
+The University of Illinois Urbana-Champaign is performing its new rapid, saliva-based COVID-19 test on all students, faculty and staff.
+Compared to the nasal test, the saliva-based test is fast, free of supply chain bottlenecks, and cost-effective, because saliva tests do not require nasal swabs, etc. 
+Compared to other saliva tests, our saliva test skips RNA isolation (a cumbersome process), which allows quicker results.
+Our studies to date show that our saliva-based test provides results that are comparable to other COVID-19 viral test methods.
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

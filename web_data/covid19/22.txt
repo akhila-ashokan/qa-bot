@@ -1,16 +1,20 @@
-https://covid19.illinois.edu/on-campus/visitors/
-Visitors – COVID-19
+https://covid19.illinois.edu/uploading-your-vaccination-record-card/
+Uploading your vaccination record card – COVID-19
 General
 Students
 Instructors
 Employees
-Visitors
-In accordance with Phase 5 of the Restore Illinois plan, invited guests and visitors are welcome on campus. Anyone visiting campus should be aware of the following practices.
-COVID-19 vaccination/testing
-There are no COVID-19 vaccination/testing requirements for visitors. However, visitors from outside the campus community are encouraged to be fully vaccinated for COVID-19 if they are able to do so. If visitors are unvaccinated, they are welcome to utilize the SHIELD CU testing program.
-Limited access in academic buildings
-Academic buildings will be monitored through spot checking by Wellness Support Associates (WSAs) during hours when classes are being held. University hosts or venue organizers are expected to escort invited guests and visitors into these buildings. Visitors should consult with the unit, host or venue organizer for gaining entry into these facilities.
-Guest speakers in class
-Guest speakers from within the campus community should be treated like any other instructor. Guest speakers from outside the campus community should be fully vaccinated for COVID-19 if they are able to do so. If guest speakers are unvaccinated, the expectation is that they have received a recent negative COVID-19 test. They are welcome to utilize the SHIELD CU testing program.
-Instructors who invite guest speakers are responsible for communicating these expectations to them. However, instructors should not be collecting any vaccination information or documentation.
+Uploading your vaccination record card
+Uploading your Vaccination Record Card for verification
+Please note you will need to continue to test until your COVID-19 vaccine record has been verified.
+After you submit, the McKinley Health Center staff will verify the accuracy of your vaccine record. McKinley does NOT send notifications if a vaccine has been verified. Once the upload has been reviewed and approved, your COVID-19 vaccines will appear under the Immunizations tab in your MyMcKinley Portal. 
+If you have any issues, please email the COVID Wellness Answer Center at covidwellness@illinois.edu or call 217-333-1900.
+Note: You must provide a certified English translation if your vaccine card/records are not in English. If your vaccine card already has the translation preprinted on your card in addition to your native language, this is acceptable as long as the name of the vaccine and your name is on the card in English. This is the same process as required for immunization records.
+Uploading your booster
+FAQ
+If you have previously uploaded a Vaccination Record Card, please be patient. It takes time for your vaccination to be verified after you submit it. 
+McKinley doesn’t send notifications if a vaccine has been verified. You will, however, receive feedback from McKinley if they are missing information or received unacceptable documentation.  Please check the inbox in your MyMcKinley to see if you have any secure messages. 
+You can check to see if your record has been verified by visiting the Immunizations section of your MyMcKinley Portal. Select “View History” and then click “Print” and there should be a full list of your verified vaccination records. 
+If you were vaccinated in the state of Illinois and need a copy of your vaccine record, you should first contact the place where you were vaccinated. If they are unable to supply a sufficient record, you can request a copy of your State of Illinois immunization record be sent to you directly from the Illinois Department of Public Health’s I-CARE system. Complete this records release form and follow all instructions listed at the top of the form to submit to IDPH. You can also access your records through IDPH’s immunization portal, Vax Verify.
+If you were vaccinated outside of Illinois, you can contact your local vaccine provider, local county health department or state health department.    
 Please consider supporting COVID relief efforts, including the SHIELD initiative or direct student funding, by making a gift  today!

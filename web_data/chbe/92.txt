@@ -1,0 +1,111 @@
+https://chbe.illinois.edu/academics/undergraduate/minor
+Minor in Biomolecular Engineering  | Chemical and Biomolecular Engineering | UIUC
+Have questions?Need help?
+Contact Us
+About
+Ready to apply? Your path to ChBE begins here.
+Undergrad Application Graduate Application
+Admissions
+  Our program is among the best, thanks to our stellar students and faculty. 
+Facts & Rankings
+Academics
+Check out our latest breakthroughs to shape a healthier and more sustainable world. 
+Learn More
+Research
+Help us share the department's latest news. 
+Submit a Story Idea
+News
+Learn more about the pioneering research our faculty members are pursuing.  
+Research Profiles
+People
+
+Check out the latest issue of our alumni magazine.
+Read Mass Transfer
+Alumni
+Invest in the future of chemical engineering. Support our faculty and students. 
+Make a Gift
+Giving
+Minor in Biomolecular Engineering 
+Biomolecular Engineering is a broad, interdisciplinary field that aims to engineer value-added biomolecules and biomolecular systems for applications in medical, chemical, agricultural, and food industries. Its practice ranges from the fundamental study of biomolecules and biomolecular systems to the design of cellular factories and artificial organs. The Biomolecular Engineering minor is designed to better prepare non-chemical engineering students for careers in the food, pharmaceutical, personal care, and biotechnology industries. Students may fulfill the requirements for a minor in biomolecular engineering by completing the following course sequence. This minor is not open to students majoring in chemical engineering. Our students should instead choose the biomolecular engineering concentration if they are interested in biomolecular engineering coursework.
+The Academic Catalog is the official listing for program requirements that have been approved by the Senate. For more information about this minor, contact our department's academic advisors in the School of Chemical Sciences at scs-advising@illinois.edu.
+Academic Catalog
+ 
+Minor Curriculum
+Course Requirements
+Hours
+Lectures and problems on material and energy balances. Prerequisite: CHEM 104 or CHEM 204; credit or concurrent registration in CS 101.
+3
+CHEM 232   Elementary Organic Chemistry IPresents structural and mechanistic chemistry with emphasis on applications of this material to closely related areas. For students in agricultural, nutritional and biological sciences, as well as premedical, predental, and preveterinary programs. One-term survey course; may be followed by CHEM 332. Credit is not given for both CHEM 232 and CHEM 236. 3 hours of credit is an option for those not registered in a discussion-recitation section. 4 hours of credit requires registration in a discussion-recitation section and a live lecture or an online section. Prerequisite: CHEM 104 and CHEM 105, or CHEM 204.
+*CHEM 236 may be substituted with approval.
+3
+Chemistry and metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes and their relation to the regulation and processes of organisms, cells, and subcellular components. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment. Additional fees may apply. See Class Schedule. 3 undergraduate hours. Credit is not given for both MCB 450 and MCB 354. Prerequisite: CHEM 232 or CHEM 236, or equivalent, or consent of instructor. Not intended for students in the MCB or biochemistry curricula.
+*MCB 354 may be substituted with approval.
+3
+ 
+9
+3
+Total Hours
+21
+Elective Options
+Biomolecular Engineering Electives
+CHBE 471   Biochemical Engineering
+Applications of chemical engineering principles to biological processes. Topics include enzyme mechanisms and kinetics, bioreactor design, cellular growth and metabolism, fermentation, and bioseparations. 3 undergraduate hours. Prerequisite: Junior, senior, or graduate standing, or consent of instructor.
+CHBE 472   Techniques in Biomolecular Eng
+Engineering principles that underlie many of the powerful tools in biotechnology and how scientific discoveries and engineering approaches are used in current industrial applications. Physical principles that govern self-organization and repair in biological systems; tools developed to characterize, manipulate, and quantify biomolecules; use of analytical tools and genetic manipulation in modern bioengineering and biotechnology applications. 3 undergraduate hours. Prerequisite: CHEM 202, CHEM 203, CHEM 204 or equivalent; MATH 220 or MATH 221; PHYS 211, PHYS 214 or equivalent; MCB 450.
+CHBE 473   Biomolecular Engineering
+Fundamental principles of biomolecular engineering and its applications in pharmaceutical, agriculture, chemical and food industries. Topics include gene discovery, rational design, directed evolution, pathway engineering, and functional genomics and proteomics. 3 undergraduate hours. 
+CHBE 474   Metabolic Engineering
+Introduction to the principles and methodology of metabolic engineering. Experimental and mathematical techniques for the quantitative description, modeling, control, and design of metabolic pathways. 3 undergraduate hours. Prerequisite: MATH 225 and MATH 285.
+CHBE 475   Tissue Engineering
+Principles and practices of Chemical Engineering will be applied to the topic of tissue engineering. Topics include: methods for employing selected cells, biomaterial scaffolds, soluble regulators or their genes, and mechanical loading and culture conditions for regenerative repair of tissues and organs in vitro and in vivo; understanding intrinsic wound healing processes; quantifying cell behaviors/phenotypes; regulatory compliance and clinical translation. 3 undergraduate hours. Prerequisites: CHBE 421 and CHBE 422, or consent of instructor.
+CHBE 476   Biotransport
+Investigates the critical roles the transports of mass, energy and momentum play in the function of living systems at varied levels (e.g., cells , tissues, and organs) and time scales. Transport phenomena are also central to the design and operation of devices for biological research, imaging, biochemical processes, and therapeutic interventions including drug delivery, gene therapy and tissue engineering. Students will explore conservation laws of mass, energy, and momentum to mathematically describe cell and molecular biology, immunology, physiology and biomedical engineering systems. 3 undergraduate hours. Prerequisites: CHBE 421 and CHBE 422 or consent of instructor.
+CHBE 478   Bioenergy Technology
+Introduction to emerging bioenergy technologies including: world energy consumption and greenhouse gas concerns; fundamental biochemistry of biomass conversion; structural chemistry of lignocelluloses; pretreatment of biomass; enzymatic deconstruction; bioethanol production and fermentation; metabolic engineering for improved biofuels production; feedstock development; industrial fermentation and fermentor design; economics of bioethanol; alternative biofuels, including biodiesel, syngas, Fischer-Tropsch diesel, butanol, ABE fermentation, and biohydrogen; anaerobic microbiology; and the biorefinery concept. 3 undergraduate hours. Prerequisites: CHBE 321; MCB 450.
+CHBE 497   Individual Study for Seniors
+Individual study of problems related to Chemical and Biomolecular Engineering. 1 to 3 undergraduate hours. No graduate credit. May be repeated for a maximum of 6 hours. Prerequisite: Senior standing and consent of instructor.
+CHBE 499   Senior Thesis
+Limited in general to seniors in the curriculum in chemical and biomolecular engineering. Any others must have the consent of the head of the department. Each student taking the course must register in a minimum of 5 hours either in one term or divided over two terms. A maximum registration of 10 hours in two terms is permitted. 1 to 6 undergraduate hours. No graduate credit. In order to receive credit, a thesis must be presented by each student registered in CHBE 499.
+Technical Electives
+ To fulfill the technical elective requirement, students may select an additional departmental elective or from the courses listed below that are offered outside of the department.
+ABE 436   Renewable Energy Systems
+Renewable energy sources and applications, including solar, geothermal, wind, and biomass. Renewable energy's role in reducing air pollution and global climate change. Capstone project to design a system for converting renewable energy into thermal or electrical energy. 3 undergraduate hours. Credit is not given for both ABE 436 and TSM 438. Prerequisite: PHYS 211.
+ABE 483   Engineering Properties of Food Materials
+Physical properties of foods and biological materials; properties relating to equipment design and the sensing and control of food processes; thermal, electromagnetic radiation, rheological, and other mechanical properties. 3 undergraduate hours. Prerequisite: Senior status in engineering or consent of instructor.
+ABE 488   Bioprocessing Biomass for Fuel
+Engineering and scientific principles governing bioprocessing of biomass for production of ethanol and other fermentation products. Process unit operations; conventional and alternative feed stock materials; recovery of value-added coproducts and other variables involved in producing fuel ethanol; process simulation; economic analysis. 4 undergraduate hours. Prerequisite: ME 200 or CHBE 321. Restricted to students with junior or senior class standing.
+BIOE 414   Biomedical Instrumentation
+Engineering aspects of the detection, acquisition, processing, and display of signals from living systems; biomedical sensors for measurements of biopotentials, ions and gases in aqueous solution, force, displacement, blood pressure, blood flow, heart sounds, respiration, and temperature; therapeutic and prosthetic devices; medical imaging instrumentation. Same as ECE 414. 3 undergraduate hours. Prerequisite: BIOE 205, ECE 205 or ECE 210.
+BIOE 415   Biomedical Instrumentation Lab
+Laboratory to accompany BIOE 414. Use of sensors and medical instrumentation for static and dynamic biological inputs. Measurement of biomedical signals. Same as ECE 415. 2 undergraduate hours. Prerequisite: Credit or concurrent registration in BIOE 414.
+BIOE 476   Tissue Engineering
+Tissue engineering therapies for cell-based, material-based, and therapeutic-based solutions. Stem cells, immunology, and clinical applications. 3 undergraduate hours. Prerequisite: MCB 150 and BIOE 206.
+ECE 467   Biophotonics
+Overview of the field of biophotonics, in three segments: (1) fundamental principles of light, optics, lasers, biology, and medicine; (2) diagnostic biophotonics including imaging, spectroscopy, and optical biosensors; (3) therapeutic applications of biophotonics including laser ablation and photodynamic therapies. Reviews and presentations of current scientific literature by students. Tours of microscopy facilities. Same as BIOE 467. 3 undergraduate hours. Prerequisite: One of ECE 455, ECE 460, PHYS 402.
+ECE 480   Magnetic Resonance Imaging
+Fundamental physical, mathematical, and computational principles governing the data acquisition and image reconstruction of magnetic resonance imaging. Same as BIOE 480. 3 undergraduate hours. Prerequisite: Recommended: ECE 310.
+MSE 470   Design and Use of Biomaterials
+Characterization and use of biomaterials in medical applications. Concepts of biocompatibility in terms of structure and properties of materials and interactions between materials and proteins, cells, and tissue. Issues related to the design of biomaterials. Design of biomaterials to meet specific medical needs. 3 undergraduate hours. Prerequisite: Credit or concurrent registration in both MCB 252 and either CHEM 232 or MSE 403.
+MSE 473   Biomolecular Materials Science
+Fundamental and unifying principles in biomolecular materials science. Nucleic acids, proteins, lipids, and sugars. Specific and non-specific interactions which govern biomolecular behavior in a wide range of contexts (e.g., self-assembly, cell adhesion). Present knowledge and empirical evidence integrated with discussions of experimental characterization and manipulation techniques in biotechnology. Application of course content and expository research into current literature via a case study term project. 3 undergraduate hours. Prerequisite: MCB 150; MSE 403 or CHEM 440 or CHEM 472. 
+MSE 474   Biomaterials and Nanomedicine
+Design and synthesis of polymeric biomaterials and nanobiomaterials for their applications in drug and gene delivery. Part (1) fundamental biopolymer synthesis: functional group protection and de-protection; bioconjugation; protein pegylation and design and synthesis of natural and synthetic non-degradable and degradable polymers, hydrogels, bio-inspired materials, and stimuli responsive biomaterials. Part (2) preparation of nanomedicines for drug and gene delivery: nanofabritation of micelles, nanoparticles, protein conjugates, drug conjugates, nanoencapsulates, and polymeric vesicles; in-vitro and in-vivo small-molecule, gene, and protein delivery. Impact of the chemical structures of biopolymers on the stability, biocompatibility, toxicity, and in-vitro and in-vivo efficacy; clinical translation of the resulting nanomedicines in drug delivery. 3 undergraduate hours. Prerequisite: CHEM 236 or MSE 457; MCB 450.
+TAM 461   Cellular Biomechanics
+Mechanics of biological cells and tissues: cell structure; mechanics of biomembranes; the cytoskeleton and cortex; dynamic cell processes; cell motility and control of cell shape and proliferation; experimental approaches and theoretical models. Same as BIOE 461. 4 undergraduate hours. Prerequisite: TAM 251.
+
+Chemical and Biomolecular Engineering
+ School of Chemical Sciences
+College of Liberal Arts & Sciences
+The Grainger College of Engineering
+University of Illinois
+114 Roger Adams Laboratory, MC-712
+                                                        600 South Mathews Avenue
+                                                        Urbana, IL 61801, USA
+							P: (217) 333-3640 | F: (217) 333-5052
+                                                       Email: chbe@illinois.edu
+
+Learn more
+Connect
+© 2022 University of Illinois Board of Trustees
+Privacy Policy
+Powered by SiteManager | Contact Webmaster
