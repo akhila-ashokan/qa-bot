@@ -1,9 +1,10 @@
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, util
 from sklearn import metrics
 import re
 import os
 import pandas as pd
 import numpy as np
+import torch
 
 from paths import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
 
@@ -58,7 +59,7 @@ class TextRetriever:
         Keyword arguments:
         text -- the text to be embedded
         """
-        bert_model = SentenceTransformer('bert-base-nli-mean-tokens')
+        bert_model = SentenceTransformer('all-MiniLM-L6-v2')
         embedded_text = bert_model.encode(text)
         return embedded_text
 
@@ -83,7 +84,7 @@ class TextRetriever:
         for document in retrieved_docs:
             read_file = document[:-3] + 'txt'
             file_reader = open(read_file, 'r', encoding='utf-8')
-            url = file_reader.readlines()[0][:-1]
+            url = file_reader.readlines()[0]
             web_content = file_reader.read()
             retrieved_docs_content.append(web_content)
             urls.append(url)
