@@ -3,6 +3,7 @@ import os
 import numpy as np
 
 from text_retriever import TextRetriever
+from text_retriever_sbert_long import TextRetrieverSBERTLong
 
 """
 This Python code is used for generating BERT embeddings for web dodcuments retrived and stored in 
@@ -10,12 +11,14 @@ web_data folder. The word embeddings are written to the folder web_data_embeddin
 once to generate pre-generate the embeddings for all the documents.
 """
 
-WRITE_PATH = 'web_data_embeddings/'
+WRITE_PATH = 'web_data_embeddings_sbert_long/'
 
-text_retriever_util = TextRetriever()
+text_retriever_util = TextRetrieverSBERTLong()
 
 for subdirectory in os.listdir('web_data/'):
     if os.path.isfile('web_data/' + subdirectory):
+        continue
+    if subdirectory in ['admissions', 'registrar', 'covid19']:
         continue
     for file in os.listdir('web_data/' + subdirectory):
         file_reader = open('web_data/' + subdirectory + '/' + file, 'r')

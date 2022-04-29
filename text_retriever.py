@@ -92,8 +92,12 @@ class TextRetriever:
         final_docs = pd.DataFrame({'Text': retrieved_docs_content, 'URL': urls, 'Similarity Scores': new_document_df[:num_docs]['Similarity Scores'].values})
         return final_docs
 
+    def best_matching_text(paragraph):
+        pass
+
 """
 #Example Use:
 retriever_object = TextRetriever()
-print(retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5))
+highest_matching_docs = retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5)
+print(highest_matching_docs[:1]['Text'])
 """
