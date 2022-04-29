@@ -90,11 +90,13 @@ class TextRetrieverSBERTLong:
             web_content = file_reader.read()
             retrieved_docs_content.append(web_content)
             urls.append(url)
+            file_reader.close()
 
         final_docs = pd.DataFrame({'Text': retrieved_docs_content, 'URL': urls, 'Similarity Scores': new_document_df[:num_docs]['Similarity Scores'].values})
         return final_docs
 
-
+"""
 #Example Use:
 retriever_object = TextRetrieverSBERTLong()
 print(retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5))
+"""
