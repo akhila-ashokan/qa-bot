@@ -1,0 +1,3 @@
+Data Structures Proficiency Exam Scheduling Hi ,
+
+I am trying to understand on how to schedule my exam and from Univ page [https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam) it seems it can be scheduled via  PrairieLearn (a video shows the way) and also via ProctorU. Can you tell me which one I need to choose to schedule and take the exam?

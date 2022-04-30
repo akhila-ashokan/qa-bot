@@ -1,0 +1,204 @@
+Q: queries/reddit_query_1.txt
+ Correct A:none
+ Given Answers:['https://covid19.illinois.edu/more-information/reports', 'https://covid19.illinois.edu/more-information/questions', 'https://covid19.illinois.edu/uploading-your-vaccination-record-card', 'https://covid19.illinois.edu/illinois-app', 'https://covid19.illinois.edu/shield-cu']
+
+Q: queries/reddit_query_11.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/essays', 'https://admissions.illinois.edu/faq', 'https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/faq/admitted', 'https://admissions.illinois.edu/visit/summer-programs']
+
+Q: queries/reddit_query_12.txt
+ Correct A:https://registrar.illinois.edu/academic-records/trans-credit
+ Given Answers:['https://admissions.illinois.edu/apply/transfer/handbook', 'https://admissions.illinois.edu/apply/freshman/college-credit', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/faq/applicant-transfer', 'https://osfa.illinois.edu/process/satisfactory-academic-progress']
+
+Q: queries/reddit_query_13.txt
+ Correct A:https://jamesscholars.education.illinois.edu
+ Given Answers:['https://jamesscholars.education.illinois.edu/program-detail', 'https://jamesscholars.education.illinois.edu/program-detail/civic-engagement-and-global-consciousness-courses', 'https://jamesscholars.education.illinois.edu/faq', 'https://jamesscholars.education.illinois.edu/honorary-james-scholars', 'https://registrar.illinois.edu/faculty-staff/registration-resources']
+
+Q: queries/reddit_query_14.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/discover/illinois-facts', 'https://admissions.illinois.edu/visit']
+
+Q: queries/reddit_query_15.txt
+ Correct A:none
+ Given Answers:['https://covid19.illinois.edu/more-information/college-and-unit-information', 'https://covid19.illinois.edu/spring-2022-guidelines', 'https://covid19.illinois.edu/health-and-support/testing-positive-for-covid-19', 'https://covid19.illinois.edu/health-and-support/face-coverings', 'https://covid19.illinois.edu/away-from-campus/travel']
+
+Q: queries/reddit_query_16.txt
+ Correct A:https://registrar.illinois.edu/registration
+ Given Answers:['https://admissions.illinois.edu/apply/transfer/handbook', 'https://admissions.illinois.edu/apply/freshman/dates', 'https://admissions.illinois.edu/apply/freshman/requirements', 'https://dgs.illinois.edu/policies-procedures', 'https://jamesscholars.education.illinois.edu/program-detail']
+
+Q: queries/reddit_query_2.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/apply/freshman/college-credit', 'https://registrar.illinois.edu/registration/concurrent-enrollment', 'https://osfa.illinois.edu/veteran-education-benefits/important-information', 'https://admissions.illinois.edu/apply/transfer/handbook']
+
+Q: queries/reddit_query_20.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/college-credit', 'https://dgs.illinois.edu/current-pre-engineering', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/request-more', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report']
+
+Q: queries/reddit_query_21.txt
+ Correct A:https://admissions.illinois.edu/apply/international/required-documents
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/process', 'https://admissions.illinois.edu/faq/applicant-transfer', 'https://registrar.illinois.edu/faculty-staff/staff-grades/final-grades', 'https://registrar.illinois.edu/faculty-staff/staff-grades', 'https://registrar.illinois.edu/courses-grades/check-your-grades']
+
+Q: queries/reddit_query_22.txt
+ Correct A:https://admissions.illinois.edu/home/choose-illinois-reasons#
+ Given Answers:['https://admissions.illinois.edu/discover/illinois-facts', 'https://admissions.illinois.edu/visit', 'https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/discover/illini-success']
+
+Q: queries/reddit_query_24.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/home/index', 'https://admissions.illinois.edu/apply/admitted/welcome', 'https://housing.illinois.edu/sitecore/content/housing/ems/ems-detail.aspx?id=255378&location=homepage-announcement']
+
+Q: queries/reddit_query_25.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/discover/campus-life/support', 'https://admissions.illinois.edu/discover/illini-success', 'https://admissions.illinois.edu/faq/admitted', 'https://admissions.illinois.edu/apply/transfer/open-closed', 'https://admissions.illinois.edu/visit/summer-programs']
+
+Q: queries/reddit_query_26.txt
+ Correct A:none
+ Given Answers:['https://dgs.illinois.edu/current-pre-engineering', 'https://registrar.illinois.edu/faculty-staff/course-catalog-and-scheduling', 'https://dgs.illinois.edu/policies-procedures', 'https://dgs.illinois.edu/schedule-an-appointment', 'https://chbe.illinois.edu/academics/undergraduate']
+
+Q: queries/reddit_query_27.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/discover/campus-life/housing', 'https://housing.illinois.edu/living-options/residence-halls', 'https://housing.illinois.edu/living-options/why-housing', 'https://housing.illinois.edu/families/parents', 'https://admissions.illinois.edu/invest/tuition']
+
+Q: queries/reddit_query_28.txt
+ Correct A:https://giesbusiness.illinois.edu/undergraduate-hub/admissions/off-campus-transfer-(oct)
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/apply/transfer/handbook', 'https://admissions.illinois.edu/apply/transfer/process', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/apply/transfer/review']
+
+Q: queries/reddit_query_29.txt
+ Correct A:https://covid19.illinois.edu/on-campus/building-access
+ Given Answers:['https://covid19.illinois.edu/health-and-support/quarantine-and-isolation', 'https://covid19.illinois.edu/more-information/questions', 'https://covid19.illinois.edu/uploading-your-vaccination-record-card', 'https://covid19.illinois.edu', 'https://covid19.illinois.edu/more-information/college-and-unit-information']
+
+Q: queries/reddit_query_3.txt
+ Correct A:none
+ Given Answers:['https://covid19.illinois.edu/more-information/questions', 'https://covid19.illinois.edu/more-information/college-and-unit-information', 'https://covid19.illinois.edu/health-and-support/testing-positive-for-covid-19', 'https://covid19.illinois.edu/more-information/reports', 'https://covid19.illinois.edu/uploading-your-vaccination-record-card']
+
+Q: queries/reddit_query_31.txt
+ Correct A:https://online.illinois.edu/online-courses/summer-session
+ Given Answers:['https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/counselors', 'https://admissions.illinois.edu/apply/admitted/welcome-days', 'https://dgs.illinois.edu/resources', 'https://admissions.illinois.edu/visit']
+
+Q: queries/reddit_query_33.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/discover/illinois-facts', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/apply/admitted/welcome', 'https://admissions.illinois.edu/apply/admitted/checklist', 'https://admissions.illinois.edu/faq/admitted']
+
+Q: queries/reddit_query_34.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/discover/illini-success', 'https://admissions.illinois.edu/discover/illinois-facts', 'https://admissions.illinois.edu/apply/transfer/handbook']
+
+Q: queries/reddit_query_35.txt
+ Correct A:https://admissions.illinois.edu/invest/scholarships
+ Given Answers:['https://admissions.illinois.edu/home/index', 'https://admissions.illinois.edu/invest/tuition', 'https://admissions.illinois.edu/discover/campus-life/support', 'https://admissions.illinois.edu/apply/freshman/action-plans', 'https://admissions.illinois.edu/visit']
+
+Q: queries/reddit_query_36.txt
+ Correct A:https://registrar.illinois.edu/registration/registration-process
+ Given Answers:['https://registrar.illinois.edu/faculty-staff/registration-resources', 'https://dgs.illinois.edu/policies-procedures', 'https://jamesscholars.education.illinois.edu/faq', 'https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/apply/admitted/summer-registration']
+
+Q: queries/reddit_query_37.txt
+ Correct A:https://admissions.illinois.edu/invest/financial-aid
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/visit', 'https://admissions.illinois.edu/home/index', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/apply/admitted/welcome']
+
+Q: queries/reddit_query_38.txt
+ Correct A:https://covid19.illinois.edu/shield-cu
+ Given Answers:['https://covid19.illinois.edu/on-campus/facilities-and-operations', 'https://covid19.illinois.edu/spring-2022-guidelines', 'https://covid19.illinois.edu/more-information/questions', 'https://covid19.illinois.edu/more-information/college-and-unit-information', 'https://covid19.illinois.edu/health-and-support/testing-positive-for-covid-19']
+
+Q: queries/reddit_query_39.txt
+ Correct A:https://isss.illinois.edu/students/incoming/pre_arrival/immigration.html
+ Given Answers:['https://admissions.illinois.edu/apply/admitted/international', 'https://admissions.illinois.edu/apply/international', 'https://covid19.illinois.edu/on-campus/on-campus-instructors', 'https://admissions.illinois.edu/languages', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report']
+
+Q: queries/reddit_query_4.txt
+ Correct A:https://grad.illinois.edu/admissions/instructions/04c
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/process', 'https://admissions.illinois.edu/faq/applicant-transfer', 'https://admissions.illinois.edu/apply/freshman/college-credit', 'https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/apply/transfer/process']
+
+Q: queries/reddit_query_40.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/admitted/welcome', 'https://chbe.illinois.edu/admissions/undergraduate/meet-our-students', 'https://illinois.edu/students/prospective.html', 'https://jamesscholars.education.illinois.edu/scholar-showcase/undergraduate-research-symposium', 'https://chbe.illinois.edu/about/contact-us']
+
+Q: queries/reddit_query_41.txt
+ Correct A:none
+ Given Answers:['https://dgs.illinois.edu', 'https://dgs.illinois.edu/major-selection', 'https://dgs.illinois.edu/admissions', 'https://dgs.illinois.edu/student-success-programs', 'https://dgs.illinois.edu/contact-us']
+
+Q: queries/reddit_query_42.txt
+ Correct A:none
+ Given Answers:['https://covid19.illinois.edu/on-campus/on-campus-instructors', 'https://covid19.illinois.edu/on-campus/return-to-on-site-operations-committees', 'https://housing.illinois.edu/dining/nutrition', 'https://covid19.illinois.edu/health-and-support/support-resources', 'https://covid19.illinois.edu/vaccination-appointments']
+
+Q: queries/reddit_query_43.txt
+ Correct A:https://newstudent.illinois.edu/illinois-beginnings/task-list
+ Given Answers:['https://admissions.illinois.edu/visit', 'https://admissions.illinois.edu/apply/admitted/welcome', 'https://admissions.illinois.edu/faq', 'https://admissions.illinois.edu/home/index', 'https://admissions.illinois.edu/visit/campus-visits/self-guided']
+
+Q: queries/reddit_query_44.txt
+ Correct A:https://isss.illinois.edu/students/employment/f1opt.html
+ Given Answers:['https://osfa.illinois.edu/process/withdrawal-refunds-reduction-of-hours', 'https://registrar.illinois.edu/tuition-fees/withdrawal', 'https://registrar.illinois.edu/tuition-fees/tuition-info', 'https://dgs.illinois.edu/policies-procedures', 'https://osfa.illinois.edu/veteran-education-benefits/faq']
+
+Q: queries/reddit_query_45.txt
+ Correct A:https://admissions.illinois.edu/faq/applicant-transfer
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/apply/transfer/open-closed', 'https://admissions.illinois.edu/apply/transfer/handbook', 'https://dgs.illinois.edu']
+
+Q: queries/reddit_query_46.txt
+ Correct A:none
+ Given Answers:['https://osfa.illinois.edu/process/withdrawal-refunds-reduction-of-hours', 'https://registrar.illinois.edu/tuition-fees/refunds', 'https://osfa.illinois.edu/veteran-education-benefits/important-information', 'https://registrar.illinois.edu/tuition-fees/tuition-info', 'https://registrar.illinois.edu/tuition-fees/withdrawal']
+
+Q: queries/reddit_query_47.txt
+ Correct A:https://admissions.illinois.edu/faq/admitted-freshman
+ Given Answers:['https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/apply/freshman/college-credit', 'https://osfa.illinois.edu/process/satisfactory-academic-progress', 'https://admissions.illinois.edu/contact', 'https://admissions.illinois.edu/apply/transfer/handbook']
+
+Q: queries/reddit_query_48.txt
+ Correct A:none
+ Given Answers:['https://covid19.illinois.edu/more-information/massmail-announcements', 'https://osfa.illinois.edu/veteran-education-benefits', 'https://osfa.illinois.edu/process', 'https://osfa.illinois.edu/process/how-to-apply/#making-a-change', 'https://osfa.illinois.edu/process/how-to-apply']
+
+Q: queries/reddit_query_49.txt
+ Correct A:https://blog.admissions.illinois.edu/?p=34264
+ Given Answers:['https://registrar.illinois.edu/transcripts', 'https://admissions.illinois.edu/contact', 'https://registrar.illinois.edu/academic-records/trans-credit', 'https://admissions.illinois.edu/apply/transfer/process', 'https://registrar.illinois.edu/academic-records']
+
+Q: queries/reddit_query_5.txt
+ Correct A:https://grad.illinois.edu/assistantships
+ Given Answers:['https://dgs.illinois.edu/schedule-an-appointment', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/apply/transfer', 'https://osfa.illinois.edu/forms/2022-2023-forms', 'https://osfa.illinois.edu/forms/2021-2022-forms']
+
+Q: queries/reddit_query_50.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/discover/illini-success', 'https://chbe.illinois.edu/alumni/homecoming', 'https://chbe.illinois.edu/directory/faculty/affiliate', 'https://illinois.edu/research/index.html', 'https://dgs.illinois.edu']
+
+Q: queries/reddit_query_51.txt
+ Correct A:https://covid19.illinois.edu/vaccination-appointments
+ Given Answers:['https://covid19.illinois.edu', 'https://covid19.illinois.edu/health-and-support/quarantine-and-isolation', 'https://covid19.illinois.edu/more-information/questions', 'https://covid19.illinois.edu/on-campus/return-to-on-site-operations-committees', 'https://covid19.illinois.edu/more-information/college-and-unit-information']
+
+Q: queries/reddit_query_52.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/admitted/welcome-days', 'https://housing.illinois.edu:443/aboutus/alumni', 'https://housing.illinois.edu/living-options/apartments', 'https://admissions.illinois.edu/visit/campus-visits/self-guided', 'https://housing.illinois.edu/families/parents']
+
+Q: queries/reddit_query_53.txt
+ Correct A:https://online.illinois.edu/getting-started/other-important-info-for-online-students/exams-and-proctors/schedule-an-exam-with-proctoru
+ Given Answers:['https://registrar.illinois.edu/faculty-staff/final-exam-scheduling', 'https://registrar.illinois.edu/faculty-staff/course-catalog-and-scheduling', 'https://covid19.illinois.edu/health-and-support/face-coverings', 'https://dgs.illinois.edu/policies-procedures', 'https://admissions.illinois.edu/apply/admitted/summer-registration']
+
+Q: queries/reddit_query_54.txt
+ Correct A:https://giesbusiness.illinois.edu/undergraduate-hub/admissions/off-campus-transfer-(oct)
+ Given Answers:['https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/apply/transfer/handbook', 'https://admissions.illinois.edu/apply/admitted/transfer-course-report', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/apply/freshman/college-credit']
+
+Q: queries/reddit_query_55.txt
+ Correct A:https://illinois.edu/resources/employment.html
+ Given Answers:['https://osfa.illinois.edu/types-of-aid/employment', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/apply/transfer/dates', 'https://admissions.illinois.edu/discover/campus-life/support']
+
+Q: queries/reddit_query_56.txt
+ Correct A:https://admissions.illinois.edu/apply/freshman/requirements
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/college-credit', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/apply/transfer']
+
+Q: queries/reddit_query_57.txt
+ Correct A:none
+ Given Answers:['https://admissions.illinois.edu/apply/nondegree', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/discover/illinois-facts', 'https://admissions.illinois.edu/visit', 'https://admissions.illinois.edu/apply/transfer']
+
+Q: queries/reddit_query_58.txt
+ Correct A:https://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa
+ Given Answers:['https://dgs.illinois.edu/current-pre-engineering', 'https://chbe.illinois.edu/admissions/undergraduate/transfer-students', 'https://chbe.illinois.edu/admissions/undergraduate', 'https://dgs.illinois.edu/schedule-an-appointment', 'https://dgs.illinois.edu/major-selection']
+
+Q: queries/reddit_query_59.txt
+ Correct A:https://occl.illinois.edu/housing/housing-search
+ Given Answers:['https://chbe.illinois.edu/admissions/graduate/student-life', 'https://admissions.illinois.edu/home/index', 'https://admissions.illinois.edu/discover/campus-life/housing', 'https://admissions.illinois.edu/apply/transfer', 'https://admissions.illinois.edu/discover/campus-life/support']
+
+Q: queries/reddit_query_60.txt
+ Correct A:https://covid19.illinois.edu/more-information/massmail-announcements
+ Given Answers:['https://covid19.illinois.edu/more-information/college-and-unit-information', 'https://covid19.illinois.edu/spring-2022-guidelines', 'https://covid19.illinois.edu/health-and-support/testing-positive-for-covid-19', 'https://covid19.illinois.edu/more-information/reports', 'https://covid19.illinois.edu']
+
+Q: queries/reddit_query_7.txt
+ Correct A:https://advising.grainger.illinois.edu/degree-requirements/transfer-credit
+ Given Answers:['https://admissions.illinois.edu/apply/freshman/college-credit', 'https://admissions.illinois.edu/apply/transfer/handbook', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/visit/summer-programs', 'https://admissions.illinois.edu/apply/transfer']
+
+Q: queries/reddit_query_9.txt
+ Correct A:https://admissions.illinois.edu/apply/freshman/college-credit-ap
+ Given Answers:['https://dgs.illinois.edu/current-pre-engineering', 'https://admissions.illinois.edu/apply/freshman/college-credit', 'https://admissions.illinois.edu/apply/transfer/gpa-guidelines', 'https://admissions.illinois.edu/visit/summer-programs', 'https://chbe.illinois.edu/admissions/undergraduate/transfer-students']
+
