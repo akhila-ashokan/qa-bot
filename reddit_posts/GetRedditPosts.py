@@ -12,15 +12,15 @@ def get_posts(subreddit, filename):
     Each entry of the list consists of a tuple of three strings
         (title text, flair text, body text)
     '''
-    start_epoch = int(datetime.datetime(2022, 2, 1).timestamp())
-    end_epoch = int(datetime.datetime(2022, 3, 1).timestamp())
+    start_epoch = int(datetime.datetime(2021, 1, 1).timestamp())
+    end_epoch = int(datetime.datetime(2022, 1, 1).timestamp())
     gen = api.search_submissions(subreddit=subreddit,
                                  after=start_epoch,
                                  before=end_epoch,
                                  limit=None)
 
     posts = [] # (title, flair, text)
-    flairs = ["COVID-19", "New Student Question", "Prospective Students"]
+    flairs = ["COVID-19", "New Student Question", "Prospective Students", "Housing"]
 
     try:
         i = 0
@@ -32,7 +32,7 @@ def get_posts(subreddit, filename):
                 # skip this post
                 continue
             
-            if len(thread.selftext) + len(thread.title) > 100 \
+            if 50 < len(thread.selftext) + len(thread.title) < 1000 \
                and thread.link_flair_text in flairs:
                 # accept this post
                 
@@ -66,7 +66,7 @@ def pickle_to_text(filename):
             f.write(str(p)+'\n\n')
 
 if __name__ == "__main__":
-    fname = "reddit_posts_feb2022.pickle"
+    fname = "reddit_posts_2021v2.pickle"
     get_posts("UIUC", fname)
     open_pickle(fname)
     # pickle_to_text(fname)
