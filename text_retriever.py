@@ -97,21 +97,28 @@ class TextRetriever:
         display_text_candidates = retrieved_docs_content[0]
         filtered_display_text_candidates = [item for item in display_text_candidates if len(item) > 200]
         sentence_vectors = []
-
-        for item in filtered_display_text_candidates:
-            sentence_vectors.append(self.get_vector_representation(self.preprocess_text(item)))
         
-        similarity_scores = self.compute_similarity_score([query_vector], sentence_vectors)
-        candidate_scores = pd.DataFrame({'sentence': filtered_display_text_candidates, 'score': similarity_scores[0]})
-        candidate_scores = candidate_scores.sort_values(by='score', ascending=False)
-        display_text = candidate_scores.iloc[0]['sentence'].strip()
+        if len(filtered_display_text_candidates) > 0:
+            for item in filtered_display_text_candidates:
+                sentence_vectors.append(self.get_vector_representation(self.preprocess_text(item)))
+        
+            similarity_scores = self.compute_similarity_score([query_vector], sentence_vectors)
+            candidate_scores = pd.DataFrame({'sentence': filtered_display_text_candidates, 'score': similarity_scores[0]})
+            candidate_scores = candidate_scores.sort_values(by='score', ascending=False)
+            display_text = candidate_scores.iloc[0]['sentence'].strip()
+        else:
+            display_text = ''
 
         final_docs = pd.DataFrame({'Text': retrieved_docs_content, 'URL': urls, 'Similarity Scores': new_document_df[:num_docs]['Similarity Scores'].values})
         return final_docs, display_text
 
-"""
+
 #Example Use:
+"""
 retriever_object = TextRetriever()
 highest_matching_docs = retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5)
 print(highest_matching_docs)
 """
+retriever_object = TextRetriever()
+highest_matching_docs = retriever_object.get_highest_matching_docs('Would my cc physics class transfer (even though I don\'t have the calc 2 requirement)?', 30)
+print(highest_matching_docs)
