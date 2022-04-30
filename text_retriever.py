@@ -83,7 +83,6 @@ class TextRetriever:
 
         for document in retrieved_docs:
             read_file = document[:-3] + 'txt'
-            print(read_file)
             file_reader = open(read_file, 'r', encoding='utf-8')
             file_lines = file_reader.readlines()
             url = file_lines[0]
@@ -100,7 +99,7 @@ class TextRetriever:
 
         for item in filtered_display_text_candidates:
             sentence_vectors.append(self.get_vector_representation(self.preprocess_text(item)))
-        
+
         similarity_scores = self.compute_similarity_score([query_vector], sentence_vectors)
         candidate_scores = pd.DataFrame({'sentence': filtered_display_text_candidates, 'score': similarity_scores[0]})
         candidate_scores = candidate_scores.sort_values(by='score', ascending=False)
