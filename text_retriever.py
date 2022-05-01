@@ -125,7 +125,8 @@ class TextRetriever:
 retriever_object = TextRetriever()
 highest_matching_docs = retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5)
 print(highest_matching_docs)
-"""
+
 retriever_object = TextRetriever()
 highest_matching_docs = retriever_object.get_highest_matching_docs('Would my cc physics class transfer (even though I don\'t have the calc 2 requirement)?', 30)
 print(highest_matching_docs)
+"""

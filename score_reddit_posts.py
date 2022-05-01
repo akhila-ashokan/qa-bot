@@ -1,4 +1,4 @@
-from text_retriever_sbert_long import TextRetrieverSBERTLong
+from text_retriever_sbert_long_preprocessed import TextRetrieverSBERTLongPreprocessed
 import pickle
 import pandas as pd
 
@@ -13,7 +13,7 @@ def get_best_posts(n):
     -------
     n posts for which the model found documents with the highest scores.
     '''
-    modele = TextRetrieverSBERTLong()
+    modele = TextRetrieverSBERTLongPreprocessed()
     with open("reddit_posts/reddit_posts_2021v2.pickle", 'rb') as f:
         posts = pickle.load(f)
         print("There are", len(posts), "posts to score.")
