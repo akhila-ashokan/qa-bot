@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import torch
 from sentence_transformers import CrossEncoder
-import spacy
+from gensim.parsing.preprocessing import remove_stopwords
 
 
 from paths_sbert_long_preprocessed import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
@@ -50,7 +50,10 @@ class TextRetrieverSBERTLongPreprocessed:
         non_alpha_chars = re.compile('[^A-Za-z]')
         processed_text = re.sub('  ', ' ', non_alpha_chars.sub(' ', text))
         # Removing any extra spaces and converting into lower case
-        return re.sub('\s+',' ', processed_text).lower()
+        processed_text = re.sub('\s+',' ', processed_text).lower()
+        # Removing stop words
+        processed_text = remove_stopwords(processed_text)
+        return processed_text
 
     def compute_similarity_score(self, text_1, text_2):
         """
@@ -83,6 +86,7 @@ class TextRetrieverSBERTLongPreprocessed:
         query -- query to be processed
         num_docs -- number of matching documents to be returned
         """
+        query = self.preprocess_text(query)
         query_vector = self.get_vector_representation(query)
         similarity_scores = self.compute_similarity_score([query_vector], self.documents_df['Embedding'].tolist())
         new_document_df = self.documents_df.copy()
