@@ -4,11 +4,12 @@ This script calls the text retriever on the entire test set and return the evalu
 import os
 from text_retriever import TextRetriever
 from text_retriever_sbert_long import TextRetrieverSBERTLong
+from text_retriever_tfidf import TextRetrieverTFIDF
 
 if __name__ == "__main__":
     # create text retriever object
     # retriever_object = TextRetriever()
-    retriever_object = TextRetrieverSBERTLong()
+    retriever_object = TextRetrieverTFIDF()
 
     ctr = 0
     total_questions = 0 
@@ -116,10 +117,11 @@ if __name__ == "__main__":
                     url = url[0:len(url)-1]
                 url = url.lower()
                 top_urls_clean.append(url)
-            print("Expected Correct Response: " + nextline)
+            #print("Expected Correct Response: " + nextline)
             # check if correct url is in top 5 list 
             if nextline in top_urls_clean:
                 index = top_urls_clean.index(nextline)
+                print("Correct Response!")
                 """
                 print("Correct Response Found!")
                 print("Question: " +  query.strip())
@@ -128,10 +130,12 @@ if __name__ == "__main__":
                 """
                 ctr+=1
             else:
+                print("Incorrect Response!")
                 response = "Q: " + str(line.name) + "\n Correct A:" + str(nextline) + "\n Given Answers:" +  str(top_urls_clean) + "\n"
                 response = "Question: " + str(line.name) + "\nExpected Answer:" + str(nextline) + "\nGiven Answers:" +  str(top_urls_clean) + "\n"
-                print(response)
-                incorrect_retrievals.append(response)  
+                #print(response)
+                incorrect_retrievals.append(response) 
+            print('######################################################') 
 
     print(str(ctr) + " correct retrievals")
 
