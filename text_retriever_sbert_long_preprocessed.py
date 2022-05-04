@@ -7,6 +7,7 @@ import numpy as np
 import torch
 from sentence_transformers import CrossEncoder
 from gensim.parsing.preprocessing import remove_stopwords
+import spacy
 
 
 from paths_sbert_long_preprocessed import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
@@ -31,8 +32,8 @@ class TextRetrieverSBERTLongPreprocessed:
         self.documents_df = pd.DataFrame(self.document_embeddings.items(), columns=['Path', 'Embedding'])
 
         # Load cross-encoder for re-ranking
-        self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-4-v2', max_length=510, num_labels=1)
-        #self.reranker = spacy.load('en_core_web_md')
+        #self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-4-v2', max_length=510, num_labels=1)
+        self.reranker = spacy.load('en_core_web_md')
 
     def preprocess_text(self, text):
         """
@@ -90,10 +91,11 @@ class TextRetrieverSBERTLongPreprocessed:
         query_vector = self.get_vector_representation(query)
         similarity_scores = self.compute_similarity_score([query_vector], self.documents_df['Embedding'].tolist())
         new_document_df = self.documents_df.copy()
-        new_document_df['Similarity Scores'] = similarity_scores[0]
-        new_document_df = new_document_df.sort_values(by='Similarity Scores', ascending=False)
+        new_document_df['Score'] = similarity_scores[0]
+        new_document_df = new_document_df.sort_values(by='Score', ascending=False)
         #retrieved_docs = new_document_df[:num_docs]['Path'].values
         retrieved_docs = new_document_df[:30]['Path'].values
+        retrieved_scores = new_document_df[:30]['Score'].values
 
         retrieved_docs_content = []
         urls = []
@@ -108,7 +110,7 @@ class TextRetrieverSBERTLongPreprocessed:
             urls.append(url)
             file_reader.close()
 
-        docs_subset = pd.DataFrame({'Path': retrieved_docs, 'Content': retrieved_docs_content, 'URL': urls})
+        docs_subset = pd.DataFrame({'Path': retrieved_docs, 'Content': retrieved_docs_content, 'URL': urls, 'Score': retrieved_scores})
         """
         embedded_query = self.reranker(query)
         
@@ -116,14 +118,16 @@ class TextRetrieverSBERTLongPreprocessed:
         for index, row in docs_subset.iterrows():
             embedded_doc = self.reranker(row['Content'])
             reranker_scores.append(embedded_query.similarity(embedded_doc))
-        """
+
         list_of_pairs = []
         for index, row in docs_subset.iterrows():
             list_of_pairs.append((query, row['Content']))
 
         reranker_scores = self.reranker.predict(list_of_pairs)
+        
         docs_subset['Score'] = reranker_scores
         docs_subset = docs_subset.sort_values(by='Score', ascending=False)
+        """
 
         #print(docs_subset)
 
@@ -141,8 +145,9 @@ retriever_object = TextRetrieverSBERTLongPreprocessed()
 highest_matching_docs = retriever_object.get_highest_matching_docs("Quick question about community college transfer class. Incoming ECE freshman here. So I’m taking a replacement for physics 211 at a local community college during the fall. If I took physics 211 at UIUC, there would be a prerequisite/concurrent requirement for calc 2, but my community college only requires calc 1 (which I have). I’m kind of doubting a 4 on my BC exam so I was planning on taking calc 2 during the spring. Would my cc physics class transfer (even though I don’t have the calc 2 requirement)?", 30)
 print(highest_matching_docs)
 
-"""
+
 
 retriever_object = TextRetrieverSBERTLongPreprocessed()
 highest_matching_docs = retriever_object.get_highest_matching_docs("Quick question about community college transfer class. Incoming ECE freshman here. So I’m taking a replacement for physics 211 at a local community college during the fall. If I took physics 211 at UIUC, there would be a prerequisite/concurrent requirement for calc 2, but my community college only requires calc 1 (which I have). I’m kind of doubting a 4 on my BC exam so I was planning on taking calc 2 during the spring. Would my cc physics class transfer (even though I don’t have the calc 2 requirement)?", 30)
 print(highest_matching_docs)
+"""

@@ -74,18 +74,22 @@ if __name__ == "__main__":
                     url = url[0:len(url)-1]
                 url = url.lower()
                 top_urls_clean.append(url)
-
+            print("Expected Correct Response: " + nextline)
             # check if correct url is in top 5 list 
             if nextline in top_urls_clean:
                 index = top_urls_clean.index(nextline)
+                """
                 print("Correct Response Found!")
                 print("Q: " +  query.strip())
                 print("A: " + nextline)
                 print("Similarity Score:" + str(top_docs['Similarity Scores'].tolist()[index])  + "\n")
+                """
                 ctr+=1
             else:
                 response = "Q: " + str(line.name) + "\n Correct A:" + str(nextline) + "\n Given Answers:" +  str(top_urls_clean) + "\n"
+                """
                 print(response)
+                """
                 incorrect_retrievals.append(response)  
 
     with open("testing_data/in_correct_retrievals.txt", "w") as f:

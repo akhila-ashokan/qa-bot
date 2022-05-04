@@ -140,7 +140,7 @@ Q: queries/reddit_query_47.txt
 
 Q: queries/reddit_query_48.txt
  Correct A:none
- Given Answers:['https://covid19.illinois.edu/more-information/massmail-announcements', 'https://osfa.illinois.edu/veteran-education-benefits', 'https://osfa.illinois.edu/process', 'https://osfa.illinois.edu/process/how-to-apply/#making-a-change', 'https://osfa.illinois.edu/process/how-to-apply']
+ Given Answers:['https://covid19.illinois.edu/more-information/massmail-announcements', 'https://osfa.illinois.edu/veteran-education-benefits', 'https://osfa.illinois.edu/process', 'https://osfa.illinois.edu/process/how-to-apply', 'https://osfa.illinois.edu/process/how-to-apply/#making-a-change']
 
 Q: queries/reddit_query_49.txt
  Correct A:https://blog.admissions.illinois.edu/?p=34264
