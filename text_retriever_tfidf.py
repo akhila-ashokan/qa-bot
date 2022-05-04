@@ -8,8 +8,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
 import pickle
 from os.path import exists
-
-
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
 
 from paths_tfidf import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
 
@@ -19,6 +19,7 @@ class TextRetrieverTFIDF:
     def __init__(self) -> None:
         self.doc_embeddings_directory = WEB_DATA_EMBEDDINGS_PATH
         self.doc_directory = WEB_DATA_PATH
+        self.lemmatizer = WordNetLemmatizer()
         """
         Loads pre-processed embeddings for documents
         
@@ -39,7 +40,7 @@ class TextRetrieverTFIDF:
         document_list = []
         paths = []
         self.document_embeddings = {}
-       
+        print("Reached Stage 1")
         for subdirectory in os.listdir(self.doc_directory):
             if os.path.isfile(self.doc_directory + subdirectory):
                 continue
@@ -49,9 +50,10 @@ class TextRetrieverTFIDF:
                     document_list.append(content)
                     paths.append(self.doc_directory + subdirectory + '/' + file)
         
+        print("Reached Stage 2")
         self.vectorizer.fit(document_list)
         transformed_vecs = self.vectorizer.transform(document_list)
-        
+        print("Reached Stage 3")
         self.documents_df = pd.DataFrame({'Path': paths,
         'Embedding': transformed_vecs
         })
@@ -69,7 +71,15 @@ class TextRetrieverTFIDF:
         non_alpha_chars = re.compile('[^A-Za-z]')
         processed_text = re.sub('  ', ' ', non_alpha_chars.sub(' ', text))
         # Removing any extra spaces and converting into lower case
-        return re.sub('\s+',' ', processed_text).lower()
+        processed_text = re.sub('\s+',' ', processed_text).lower()
+        print("Reached processing 1")
+        processed_text = processed_text.split()
+        print("Reached processing 2")
+        processed_text = [self.lemmatizer.lemmatize(word) for word in processed_text if not word in set(stopwords.words())]
+        print("Reached processing 3")
+        processed_text = ' '.join(processed_text)
+        print("Reached processing 4")
+        return processed_text
 
     def compute_similarity_score(self, text_1, text_2):
         """
@@ -118,7 +128,7 @@ class TextRetrieverTFIDF:
             content = file_reader.readlines()
             url = content[0]
             content = ' '.join(content)
-            retrieved_docs_content.append(self.preprocess_text(content.strip()))
+            retrieved_docs_content.append(content.strip())
             urls.append(url)
             file_reader.close()
 
