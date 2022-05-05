@@ -2,8 +2,6 @@
 This script calls the text retriever on the entire test set and return the evaluation metrics
 """
 import os
-from text_retriever import TextRetriever
-from text_retriever_sbert_long import TextRetrieverSBERTLong
 from text_retriever_tfidf import TextRetrieverTFIDF
 
 if __name__ == "__main__":

@@ -13,6 +13,7 @@ from nltk.corpus import stopwords
 
 from paths_tfidf import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
 
+WRITE_PATH = 'preprocessed_docs/'
 
 class TextRetrieverTFIDF:
 
@@ -20,6 +21,7 @@ class TextRetrieverTFIDF:
         self.doc_embeddings_directory = WEB_DATA_EMBEDDINGS_PATH
         self.doc_directory = WEB_DATA_PATH
         self.lemmatizer = WordNetLemmatizer()
+        ###################################
         """
         Loads pre-processed embeddings for documents
         
@@ -40,16 +42,16 @@ class TextRetrieverTFIDF:
         document_list = []
         paths = []
         self.document_embeddings = {}
-        print("Reached Stage 1")
         for subdirectory in os.listdir(self.doc_directory):
             if os.path.isfile(self.doc_directory + subdirectory):
                 continue
             for file in os.listdir(self.doc_directory + subdirectory):
                 with open(self.doc_directory + subdirectory + '/' + file) as f:
-                    content = self.preprocess_text(f.read())
+                    content = f.read()
                     document_list.append(content)
                     paths.append(self.doc_directory + subdirectory + '/' + file)
         
+        print(document_list)
         print("Reached Stage 2")
         self.vectorizer.fit(document_list)
         transformed_vecs = self.vectorizer.transform(document_list)
@@ -57,6 +59,8 @@ class TextRetrieverTFIDF:
         self.documents_df = pd.DataFrame({'Path': paths,
         'Embedding': transformed_vecs
         })
+       #self.documents_df.to_pickle(WEB_DATA_EMBEDDINGS_PATH + 'tfidf_embeddings.pkl')
+
 
     def preprocess_text(self, text):
         """
