@@ -13,59 +13,38 @@ from nltk.corpus import stopwords
 
 from paths_tfidf import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH
 
-WRITE_PATH = 'preprocessed_docs/'
-
 class TextRetrieverTFIDF:
 
     def __init__(self) -> None:
         self.doc_embeddings_directory = WEB_DATA_EMBEDDINGS_PATH
         self.doc_directory = WEB_DATA_PATH
+        self.preprocessed_data_directory = 'preprocessed_docs/'
         self.lemmatizer = WordNetLemmatizer()
-        ###################################
-        """
-        Loads pre-processed embeddings for documents
-        
-        self.doc_embeddings_directory = WEB_DATA_EMBEDDINGS_PATH
-        self.doc_directory = WEB_DATA_PATH
-        self.document_embeddings = {}
-        for subdirectory in os.listdir(self.doc_embeddings_directory):
-            if os.path.isfile(self.doc_embeddings_directory + subdirectory):
-                continue
-            for file in os.listdir(self.doc_embeddings_directory + subdirectory):
-                key = self.doc_directory + subdirectory + '/' + file
-                self.document_embeddings[key] = np.load(self.doc_embeddings_directory + subdirectory + '/' + file)
-
-        self.documents_df = pd.DataFrame(self.document_embeddings.items(), columns=['Path', 'Embedding'])
-        """
         # Training the TF-IDF Vectorizer
         self.vectorizer = TfidfVectorizer(max_features=100000,ngram_range=(1, 3))
         document_list = []
         paths = []
         self.document_embeddings = {}
+        
         for subdirectory in os.listdir(self.doc_directory):
             if os.path.isfile(self.doc_directory + subdirectory):
                 continue
             for file in os.listdir(self.doc_directory + subdirectory):
-                with open(self.doc_directory + subdirectory + '/' + file) as f:
+                # Loading the content of the document from pre-processed data directory instead of the original web data directory
+                with open(self.preprocessed_data_directory + subdirectory + '/' + file) as f:
                     content = f.read()
                     document_list.append(content)
                     paths.append(self.doc_directory + subdirectory + '/' + file)
         
-        print(document_list)
-        print("Reached Stage 2")
         self.vectorizer.fit(document_list)
         transformed_vecs = self.vectorizer.transform(document_list)
-        print("Reached Stage 3")
         self.documents_df = pd.DataFrame({'Path': paths,
         'Embedding': transformed_vecs
         })
-       #self.documents_df.to_pickle(WEB_DATA_EMBEDDINGS_PATH + 'tfidf_embeddings.pkl')
-
 
     def preprocess_text(self, text):
         """
         Preprocesses text including removal of URLs, non-alphabetical characters and extra spaces.
-
         Keyword arguments:
         text -- the text to be preprocessed
         """
@@ -76,19 +55,14 @@ class TextRetrieverTFIDF:
         processed_text = re.sub('  ', ' ', non_alpha_chars.sub(' ', text))
         # Removing any extra spaces and converting into lower case
         processed_text = re.sub('\s+',' ', processed_text).lower()
-        print("Reached processing 1")
         processed_text = processed_text.split()
-        print("Reached processing 2")
         processed_text = [self.lemmatizer.lemmatize(word) for word in processed_text if not word in set(stopwords.words())]
-        print("Reached processing 3")
         processed_text = ' '.join(processed_text)
-        print("Reached processing 4")
         return processed_text
 
     def compute_similarity_score(self, text_1, text_2):
         """
         Computes pairwise similarity score between two arrays of embeddings
-
         Keyword arguments:
         text_1 -- First array of word embeddings
         text_2 -- Second array of word embeddings
@@ -98,7 +72,6 @@ class TextRetrieverTFIDF:
     def get_vector_representation(self, text):
         """
         Gets the vector representation (embedding) for text.
-
         Keyword arguments:
         text -- the text to be embedded
         """
@@ -108,7 +81,6 @@ class TextRetrieverTFIDF:
     def get_highest_matching_docs(self, query, num_docs):
         """
         Gets the highest matching documents for a query
-
         Keyword arguments:
         query -- query to be processed
         num_docs -- number of matching documents to be returned
@@ -146,13 +118,9 @@ class TextRetrieverTFIDF:
 #Example Use:
 retriever_object = TextRetrieverSBERTLong()
 print(retriever_object.get_highest_matching_docs('masks are useful for preventing covid-19', 5))
-
-
 retriever_object = TextRetrieverSBERTLong()
 #highest_matching_docs = retriever_object.get_highest_matching_docs('Quick question about community college transfer class. Incoming ECE freshman here. So I\'m taking a replacement for physics 211 at a local community college during the fall. If I took physics 211 at UIUC, there would be a prerequisite/concurrent requirement for calc 2, but my community college only requires calc 1 (which I have). I\'m kind of doubting a 4 on my BC exam so I was planning on taking calc 2 during the spring. Would my cc physics class transfer (even though I don\'t have the calc 2 requirement)?', 30)
 highest_matching_docs = retriever_object.get_highest_matching_docs('Would my cc physics class transfer (even though I don\'t have the calc 2 requirement)?', 30)
 print(highest_matching_docs)
-
-
 retriever_object = TextRetrieverTFIDF()
 """
