@@ -16,6 +16,7 @@ class TextRetrieverSBERT:
         """
         self.doc_embeddings_directory = WEB_DATA_EMBEDDINGS_PATH
         self.doc_directory = WEB_DATA_PATH
+        self.preprocessed_data_directory = PREPROCESSED_DATA_PATH
         self.document_embeddings = {}
         for subdirectory in os.listdir(self.doc_embeddings_directory):
             if os.path.isfile(self.doc_embeddings_directory + subdirectory):
@@ -39,7 +40,11 @@ class TextRetrieverSBERT:
         non_alpha_chars = re.compile('[^A-Za-z]')
         processed_text = re.sub('  ', ' ', non_alpha_chars.sub(' ', text))
         # Removing any extra spaces and converting into lower case
-        return re.sub('\s+',' ', processed_text).lower()
+        processed_text = re.sub('\s+',' ', processed_text).lower()
+        processed_text = processed_text.split()
+        processed_text = [self.lemmatizer.lemmatize(word) for word in processed_text if not word in set(stopwords.words())]
+        processed_text = ' '.join(processed_text)
+        return processed_text
 
     def compute_similarity_score(self, text_1, text_2):
         """
