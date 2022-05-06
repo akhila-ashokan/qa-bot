@@ -6,7 +6,7 @@ import pickle
 from text_retrievers.text_retriever_sbert import TextRetrieverSBERT
 
 """
-This Python code is used for generating SBERT embeddings for web dodcuments retrived and stored in 
+This Python code is used for generating pre-processed embeddings for documents retrieved and stored in 
 web_data folder. The word embeddings are written to the folder web_data_embeddings. This code only needs to be 
 once to generate pre-generate the embeddings for all the documents.
 """
