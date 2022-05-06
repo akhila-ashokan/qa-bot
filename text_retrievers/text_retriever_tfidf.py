@@ -4,7 +4,6 @@ import os
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-import nltk
 from os.path import exists
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords

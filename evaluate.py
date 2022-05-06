@@ -2,12 +2,12 @@
 This script calls the text retriever on the entire test set and return the evaluation metrics
 """
 import os
-from text_retrievers.text_retriever_sbert import TextRetrieverSBERT
+from text_retrievers.text_retriever_tfidf import TextRetrieverTFIDF
 
 if __name__ == "__main__":
     # create text retriever object
     # retriever_object = TextRetriever()
-    retriever_object = TextRetrieverSBERT()
+    retriever_object = TextRetrieverTFIDF()
 
     ctr = 0
     total_questions = 0 
