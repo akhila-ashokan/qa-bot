@@ -10,7 +10,11 @@ from paths.paths_sbert_reranking import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH,
 
 
 class TextRetrieverSBERTReranking:
-
+    """
+    Implements retreival of documents based on similarity of SBERT embeddings of query and the documents followed by re-ranking using cross-encoders.
+    Uses Python's Sentence-Transformers framework to generate the embeddings using a pre-trained model. 
+    Cross-encoder is also based on a pre-trained model from the Sentence-Transformers framework. 
+    """
     def __init__(self) -> None:
         """
         Loads pre-processed SBERT embeddings for documents
@@ -24,7 +28,7 @@ class TextRetrieverSBERTReranking:
 
         for subdirectory in os.listdir(self.doc_embeddings_directory):
             if os.path.isfile(self.doc_embeddings_directory + subdirectory):
-                continues
+                continue
             for file in os.listdir(self.doc_embeddings_directory + subdirectory):
                 key = self.doc_directory + subdirectory + '/' + file
                 self.document_paths.append(key)
@@ -38,7 +42,7 @@ class TextRetrieverSBERTReranking:
 
     def preprocess_text(self, text):
         """
-        Preprocesses text including removal of URLs, non-alphabetical characters and extra spaces.
+        Preprocesses text including removal of URLs, non-alphabetical characters, extra spaces, and stopwords.
 
         Keyword arguments:
         text -- the text to be preprocessed

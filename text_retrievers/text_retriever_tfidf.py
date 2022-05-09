@@ -11,7 +11,10 @@ from nltk.corpus import stopwords
 from paths.paths_tfidf import WEB_DATA_PATH, PREPROCESSED_DATA_PATH
 
 class TextRetrieverTFIDF:
-
+    """
+    Implements retreival of documents based on similarity of TF-IDF vectors for query and the documents.
+    Uses Python's TF-IDF Vectorizer to generate the TF-IDF representations.
+    """
     def __init__(self) -> None:
         # Loading path for web data documents and the pre-processed version of the documents
         self.doc_directory = WEB_DATA_PATH

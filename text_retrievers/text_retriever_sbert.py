@@ -9,7 +9,10 @@ from paths.paths_sbert import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH, PREPROCES
 
 
 class TextRetrieverSBERT:
-
+    """
+    Implements retreival of documents based on similarity of SBERT embeddings of query and the documents.
+    Uses Python's Sentence-Transformers framework to generate the embeddings using a pre-trained model. 
+    """
     def __init__(self) -> None:
         """
         Loads pre-processed SBERT embeddings for documents
@@ -29,7 +32,7 @@ class TextRetrieverSBERT:
 
     def preprocess_text(self, text):
         """
-        Preprocesses text including removal of URLs, non-alphabetical characters and extra spaces.
+        Preprocesses text including removal of URLs, non-alphabetical characters, extra spaces, and stopwords.
 
         Keyword arguments:
         text -- the text to be preprocessed
@@ -95,32 +98,5 @@ class TextRetrieverSBERT:
             urls.append(url)
             file_reader.close()
 
-        """
-        This part determines the best text to display by the bot, from the highest matching document.
-        """
-        """
-        display_text_candidates = retrieved_docs_content[0]
-        filtered_display_text_candidates = [item for item in display_text_candidates if len(item) > 200]
-        sentence_vectors = []
-        
-        if len(filtered_display_text_candidates) > 0:
-            for item in filtered_display_text_candidates:
-                sentence_vectors.append(self.get_vector_representation(self.preprocess_text(item)))
-        
-            similarity_scores = self.compute_similarity_score([query_vector], sentence_vectors)
-            candidate_scores = pd.DataFrame({'sentence': filtered_display_text_candidates, 'score': similarity_scores[0]})
-            candidate_scores = candidate_scores.sort_values(by='score', ascending=False)
-            display_text = candidate_scores.iloc[0]['sentence'].strip()
-        else:
-            display_text = ''
-
-        for item in filtered_display_text_candidates:
-            sentence_vectors.append(self.get_vector_representation(self.preprocess_text(item)))
-
-        similarity_scores = self.compute_similarity_score([query_vector], sentence_vectors)
-        candidate_scores = pd.DataFrame({'sentence': filtered_display_text_candidates, 'score': similarity_scores[0]})
-        candidate_scores = candidate_scores.sort_values(by='score', ascending=False)
-        display_text = candidate_scores.iloc[0]['sentence'].strip()
-        """
         final_docs = pd.DataFrame({'Text': retrieved_docs_content, 'URL': urls, 'Similarity Scores': new_document_df[:num_docs]['Similarity Scores'].values})
-        return final_docs#, display_text
+        return final_docs
