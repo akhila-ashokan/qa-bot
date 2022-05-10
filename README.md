@@ -22,7 +22,7 @@ The overall project structure is shown in the diagram, but a more detailed overv
     ├── document_embeddings_generator.py           # script that generates the word embeddings for documents 
     ├── evaluate.py                                # script for testing the retrieval model on test data sets 
     ├── qa_detection.py                            # script used to create and run question-answer detection model 
-    └──score_reddit_posts.py                       # script which returns n posts for which the model found documents with the highest scores
+    └──score_reddit_posts.py                       # returns n posts for which the model found documents with the highest scores
     
 
 #### 📁 paths/
