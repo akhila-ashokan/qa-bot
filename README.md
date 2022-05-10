@@ -17,12 +17,12 @@ The overall project structure is shown in the diagram, but a more detailed overv
     ├── web_data			                       # methods that can be used to scrape web data
     ├── web_data_embeddings                        #  
     ├── LICENSE                                    # MIT License File  
-    ├── README.md                                  #  methods that can be used to scrape web data
-    ├── collect_pushshift.py                       #  methods that can be used to scrape web data
-    ├── document_embeddings_generator.py           #  methods that can be used to scrape web data
-    ├── evaluate.py                                #  methods that can be used to scrape web data
-    ├── qa_detection.py                            #  methods that can be used to scrape web data
-    └──score_reddit_posts.py                       #  methods that can be used to scrape web data
+    ├── README.md                                  # this README file 
+    ├── collect_pushshift.py                       # example script for collecting Reddit posts 
+    ├── document_embeddings_generator.py           # script that generates the word embeddings for documents 
+    ├── evaluate.py                                # script for testing the retrieval model on data sets 
+    ├── qa_detection.py                            # script to create and run question-answer classifier 
+    └──score_reddit_posts.py                       # script which returns n posts for which the model found documents with the highest scores
     
 
 #### 📁 paths/
