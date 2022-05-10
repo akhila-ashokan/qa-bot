@@ -12,16 +12,16 @@ The overall project structure is shown in the diagram, but a more detailed overv
     ├── queriesv2                                  # eighty Reddit posts of our final evaluation dataset
     ├── reddit_bot                                 # scripts to run Reddit bot
     ├── reddit_posts                               # script to pull Reddit posts from Pushshift 
-    ├── testing_data		                       # contains testing data files and answers 
-    ├── text_retrievers		                       # Python classes for different types of text retrievers
-    ├── web_data			                       # methods that can be used to scrape web data
-    ├── web_data_embeddings                        #  
+    ├── testing_data		               # contains testing data files and answers 
+    ├── text_retrievers		               # Python classes for different types of text retrievers
+    ├── web_data			               # methods that can be used to scrape web data
+    ├── web_data_embeddings                        # word embeddings of web_data saved as .npy files 
     ├── LICENSE                                    # MIT License File  
     ├── README.md                                  # this README file 
     ├── collect_pushshift.py                       # example script for collecting Reddit posts 
     ├── document_embeddings_generator.py           # script that generates the word embeddings for documents 
-    ├── evaluate.py                                # script for testing the retrieval model on data sets 
-    ├── qa_detection.py                            # script to create and run question-answer classifier 
+    ├── evaluate.py                                # script for testing the retrieval model on test data sets 
+    ├── qa_detection.py                            # script used to create and run question-answer detection model 
     └──score_reddit_posts.py                       # script which returns n posts for which the model found documents with the highest scores
     
 
@@ -69,3 +69,30 @@ To create a new retriever class, you should add a new file under the folder text
 This folder contains the methods that can be used to scrape and retrieve the text data of any website, as well as all the scraped web documents in txt format.
 * `web_scrape.py`: contains methods for scraping specific webpage as well as an entire subdomain.
 * `data_factory.py`: contains method for retrieving a dictionary from url to text data of any specified subdomain.
+
+
+## Adding a New Text Retrieval Model
+If you have a better-performing text retrieval function, it can be easily added to the project. We currently have two classes in the text_retrievers folder - TextRetrieverSBERT and TextRetrieverTFIDF. 
+
+If you wish to add another class, you can copy the code from the TextRetrieverTFIDF class and create a new Python file in the text_retriever/ folder. 
+You also need to add a file in paths/ folder defining the variables WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH and PREPROCESSED_DATA_PATH. If you wish to use the already existing preprocessed form of documents for generating embeddings, you can set PREPROCESSED_DATA_PATH to 'preprocessed_docs/'. The path file should be imported into the retriever file. 
+
+For example, as follows:
+from paths.paths_sbert_reranking import WEB_DATA_EMBEDDINGS_PATH, WEB_DATA_PATH, PREPROCESSED_DATA_PATH
+Write the functions preprocess_text, compute_similarity_score, get_vector_representation and get_highest_matching_docs as defined above. 
+Import the newly created class into evaluate.py, and run evaluate.py to check the performance.
+
+## Evaluating a Retrieval Model
+At the top of evaluate.py, import the model that you want to test, and instantiate retriever_object with the model’s class. For example, the following code is suitable for evaluating the SBERT with re-ranking model: 
+```
+from text_retrievers.text_retriever_sbert_reranking import TextRetrieverSBERTReranking
+if __name__ == "__main__":
+    # create text retriever object
+    retriever_object = TextRetrieverSBERTReranking()
+```
+
+Then, comment or uncomment the sections… to choose which questions and Reddit posts to evaluate the model on…
+Running the Reddit Bot
+
+In order to suggest the top five UIUC resources directly to the subreddit, we utilize the Reddit bot to post comments on with the links on each individual post that it answers. Currently, the current Reddit bot has been tested for local hosting, but external hosting services can also host the bot with the same code base. All the Reddit bot files are provided in the ‘reddit_bot’ directory.
+
