@@ -5,14 +5,14 @@ from keep_alive import keep_alive
 import sys
 from os import path
 sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) )
-from text_retriever import TextRetriever
+from text_retrievers.text_retriever_sbert_reranking import TextRetrieverSBERTReranking
 
 
 keep_alive()
 load_dotenv()
 
 # create text retriever object
-retriever_object = TextRetriever()
+retriever_object = TextRetrieverSBERTReranking()
 
 # read Reddit credentials from .env file
 r = praw.Reddit(
