@@ -92,9 +92,7 @@ if __name__ == "__main__":
 ```
 
 Then, comment or uncomment the sections… to choose which questions and Reddit posts to evaluate the model on…
-Running the Reddit Bot
 
-In order to suggest the top five UIUC resources directly to the subreddit, we utilize the Reddit bot to post comments on with the links on each individual post that it answers. Currently, the current Reddit bot has been tested for local hosting, but external hosting services can also host the bot with the same code base. All the Reddit bot files are provided in the ‘reddit_bot’ directory.
 
 ## Running the Reddit Bot
 In order to suggest the top five UIUC resources directly to the subreddit, we utilize the Reddit bot to post comments on with the links on each individual post that it answers. Currently, the current Reddit bot has been tested for local hosting on port 8080, but external hosting services can also host the bot with the same code base. All the Reddit bot files are provided in the ‘reddit\_bot’ directory. The reddit bot be activated by simply running the reddit\_bot.py script. The keep\_alive.py script keeps the flask app running the background. The current implementation of the Reddit bot runs on the CS510 subreddit, but the r\slash UIUC subreddit can also utilize this bot with by changing the subreddit name in the reddit\_bot.py file. We note that the flask app design we have used for this project is not suitable for a production environment. 
